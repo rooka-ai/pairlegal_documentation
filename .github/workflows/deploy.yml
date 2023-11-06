@@ -16,7 +16,7 @@ jobs:
     defaults:
       run:
         shell: bash
-        working-directory: ./pairlegal-documentation
+        working-directory: pairlegal-documentation
 
     steps:
       - name: List dir
