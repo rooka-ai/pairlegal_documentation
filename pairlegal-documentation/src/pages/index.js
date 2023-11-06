@@ -1,7 +1,5 @@
-import useBaseUrl from '@docusaurus/useBaseUrl';
-
+import { Redirect } from '@docusaurus/router';
 
 export default function Home() {
-  window.location.href = useBaseUrl('/docs/intro');
-  return null;
-}
+  return <Redirect to="/docs/intro" />;
+};
