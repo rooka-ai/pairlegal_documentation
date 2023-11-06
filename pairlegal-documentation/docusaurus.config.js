@@ -23,7 +23,7 @@ const config = {
   organizationName: 'rooka-ai', // Usually your GitHub org/user name.
   projectName: 'pairlegal_documentation', // Usually your repo name.
   deploymentBranch: 'gh-pages',
-  trailingSlash: true
+  trailingSlash: true,
 
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
