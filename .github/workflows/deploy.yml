@@ -24,6 +24,7 @@ jobs:
         with:
           node-version: 18
           cache: yarn
+      - name: List dir
         run: ls
 
       - name: Install dependencies
