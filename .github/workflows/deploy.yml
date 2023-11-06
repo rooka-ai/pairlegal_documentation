@@ -13,11 +13,6 @@ jobs:
   deploy:
     name: Deploy to GitHub Pages
     runs-on: ubuntu-latest
-    env:
-      working-directory: pairlegal-documentation
-    defaults:
-      run:
-        working-directory: ${{ env.working-directory }}
     steps:
       - name: List dir
         run: ls
