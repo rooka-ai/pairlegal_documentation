@@ -16,12 +16,14 @@ const config = {
   url: 'https://rooka.ai/',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
-  baseUrl: '/',
+  baseUrl: '/pairlegal_documentation/',
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
-  organizationName: 'Rooka Labs', // Usually your GitHub org/user name.
-  projectName: 'rooka', // Usually your repo name.
+  organizationName: 'rooka-ai', // Usually your GitHub org/user name.
+  projectName: 'pairlegal_documentation', // Usually your repo name.
+  deploymentBranch: 'gh-pages',
+  trailingSlash: true,
 
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
