@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpairlegal_documentation=self.webpackChunkpairlegal_documentation||[]).push([[195],{2841:(e,t,a)=>{a.r(t),a.d(t,{default:()=>o});var n=a(6550),u=a(4996),l=a(5893);function o(){return(0,l.jsx)(n.l_,{to:(0,u.Z)("/docs/intro")})}}}]);
