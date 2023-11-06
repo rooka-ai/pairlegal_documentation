@@ -5,3 +5,4 @@ Run test server by
     npm install
     npm run start
 ```
+Entrypoint: localhost:\<port\>/pairlegal_documentation
