@@ -77,7 +77,7 @@ const config = {
         style: 'dark',
         links: [
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} Rooka Labs Ltd. Built with Docusaurus.`,
+        copyright: `Rooka Labs`,
       },
       prism: {
         theme: prismThemes.github,
