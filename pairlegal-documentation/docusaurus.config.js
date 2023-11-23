@@ -33,7 +33,7 @@ const config = {
   // may want to replace "en" with "zh-Hans".
   i18n: {
     defaultLocale: 'en',
-    locales: ['en'],
+    locales: ['en', "de"],
   },
 
   presets: [
@@ -56,16 +56,21 @@ const config = {
     ({
       colorMode: {
         defaultMode: 'light',
-        disableSwitch: true,
-        respectPrefersColorScheme: false,
+        disableSwitch: false,
+        respectPrefersColorScheme: true,
       },
       image: 'img/Logo.svg',
       navbar: {
         logo: {
           alt: 'Rooka Logo',
           src: 'img/logo.svg',
+          srcDark: 'img/logo_dark.svg'
         },
         items: [
+          {
+            type: 'localeDropdown',
+            position: 'right',
+          },
           {
             href: 'https://linkedin.com/company/rooka-labs',
             label: 'LinkedIn',
