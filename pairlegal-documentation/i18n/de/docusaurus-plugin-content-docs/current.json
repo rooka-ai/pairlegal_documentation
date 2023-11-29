@@ -1,0 +1,14 @@
+{
+  "version.label": {
+    "message": "Aktuellste Version",
+    "description": "The label for version current"
+  },
+  "sidebar.tutorialSidebar.category.Definitions": {
+    "message": "Definitionen",
+    "description": "The label for category Definitions in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Definitions.link.generated-index.description": {
+    "message": "Informationen zum Tracking von Definitionen innerhalb eines Dokumentes.",
+    "description": "The generated-index page description for category Definitions in sidebar tutorialSidebar"
+  }
+}

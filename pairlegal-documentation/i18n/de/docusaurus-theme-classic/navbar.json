@@ -1,0 +1,10 @@
+{
+  "logo.alt": {
+    "message": "Rooka Logo",
+    "description": "The alt text of navbar logo"
+  },
+  "item.label.LinkedIn": {
+    "message": "LinkedIn",
+    "description": "Navbar item with label LinkedIn"
+  }
+}
