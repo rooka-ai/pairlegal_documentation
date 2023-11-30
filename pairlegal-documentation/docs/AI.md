@@ -1,5 +1,5 @@
 ---
-sidebar_position: 5
+sidebar_position: 6
 ---
 
 # AI
@@ -10,7 +10,7 @@ Tap into the latest innovations in the field of generative AI right inside MS Wo
 
 ### Adaptive replace
 
-Swap pairs of terms (e.g., "Company" –> "Buyer") over a document in a contextually-aware way. After selecting the pair or pairs, the plugin returns a list of suggested replacements, which can be individually accepted or rejected.
+Swap pairs of terms (e.g., "Company" –> "Buyers") over a document in a contextually-aware way. After selecting the pair or pairs, the plugin returns a list of suggested replacements, which can be individually accepted or rejected.
 
 ### QA
 
