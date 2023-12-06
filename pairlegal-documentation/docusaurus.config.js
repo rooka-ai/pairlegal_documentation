@@ -72,8 +72,8 @@ const config = {
             position: 'right',
           },
           {
-            href: 'https://linkedin.com/company/rooka-labs',
-            label: 'LinkedIn',
+            href: 'https://www.rooka.ai',
+            label: 'About us',
             position: 'right',
           },
         ],
