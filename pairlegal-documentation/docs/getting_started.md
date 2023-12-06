@@ -1,17 +1,12 @@
 ---
 sidebar_position: 1
 ---
-
 # Getting started
 
-You can download the plugin from the [download.rooka.ai](http://download.rooka.ai/) and then create an account directly from the plugin. Once you create the account, you can immediately access all of the features of the plugin. Our sales team will then reach out to discuss any questions you may have, provide a demo, and discuss paramaters of your pilot program.
+Thank you for your interest in Rooka, the AI contract drafting assistant integrated into MS Word. Our solution provides a layer of insights over a contract opened in MS Word: connecting information within the document (such as defined terms), connecting with external information (such as information from Company House), and providing suggestions on model clauses based on the internal database. Rooka is **built with respect for your craft**, leaving you in control of the document at all times and providing you with the insights you need to make the best decisions.
 
-The plugin is being automatically updated, so you will always have the latest version.
+## Download
+
+You can download the plugin and create an account on [download.rooka.ai](http://download.rooka.ai/) Once you create the account, you can immediately access all of the features of the plugin. Our sales team will then reach out to discuss any questions you may have, provide a demo, and discuss paramaters of your pilot program. The plugin is being automatically updated, so you will always have the latest version.
 
 We currently support Windows only, with a Mac version coming in early 2024.
-
-## Security
-
-Our backend is securely hosted by our partner, a CMS provider SingleCase, in the European Union. Please reach out to us with any questions about security. We are happy to discuss our security practices and provide any documentation you may need.
-
-We use a combination of approaches to analyse the opened document. Unless you are accessing generative AI features (as indicated in each case in the plugin), no data leaves our backend. We can provide tailored **self-hosted** solutions for your organization if you have specific security requirements.
