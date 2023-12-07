@@ -6,7 +6,9 @@ sidebar_position: 1
 
 ## Overview
 
-Tracking of **definitions** is designed to enhance contract review processes by providing instant access to definitions and terms previously defined within the opened legal document. This feature saves you from having to search for definitions and terms manually by allowing you to open up a split-view. We
+Tracking of **definitions** is designed to enhance contract review processes by providing instant access to definitions and terms previously defined within the opened legal document. This feature saves you from having to search for definitions and terms manually by allowing you to open up a split-view.
+
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/qa7d2C30m_o?si=6NrwdKgu5lpNBrD-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ## Features
 
