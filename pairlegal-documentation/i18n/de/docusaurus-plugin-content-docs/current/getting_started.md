@@ -4,7 +4,7 @@ sidebar_position: 1
 
 # Erste Schritte
 
-Vielen Dank für Ihr Interesse an Rooka, dem in MS Word integrierten KI-Assistenten für die Vertragsgestaltung. Unsere Lösung bietet eine Reihe von Einblicken in einen in MS Word geöffneten Vertrag: Sie verknüpft Informationen innerhalb des Dokuments (z. B. definierte Begriffe) mit externen Informationen (z. B. Informationen aus dem Handelsregister) und liefert Vorschläge für Musterklauseln auf Grundlage der internen Datenbank. Rooka ist **mit Respekt für Ihr Handwerk** aufgebaut, lässt Ihnen jederzeit die Kontrolle über das Dokument und liefert Ihnen die Informationen, die Sie brauchen, um die besten Entscheidungen zu treffen.
+Vielen Dank für Ihr Interesse an Rooka, dem in MS Word integrierten KI-Assistenten für die Vertragsgestaltung. Unsere Software bietet eine Reihe von Einblicken in einen in MS Word geöffneten Vertrag: Sie verknüpft Informationen innerhalb des Dokuments (z. B. definierte Begriffe) mit externen Informationen (z. B. Informationen aus dem Handelsregister) und liefert Vorschläge für Musterklauseln auf Grundlage der internen Datenbank. Rooka ist **mit Respekt für Ihr Handwerk** aufgebaut, lässt Ihnen jederzeit die Kontrolle über das Dokument und liefert Ihnen die Informationen, die Sie brauchen, um die besten Entscheidungen zu treffen.
 
 ## Herunterladen
 
