@@ -8,6 +8,8 @@ sidebar_position: 3
 
 Das Tracking von **Definitionen** ist darauf ausgelegt, den Prozess der Vertragsprüfung zu verbessern, indem es sofortigen Zugang zu Definitionen und Begriffen bietet, die zuvor im geöffneten Rechtsdokument definiert wurden. Diese Funktion erspart Ihnen die manuelle Suche nach Definitionen und Begriffen, indem Sie eine Split-Ansicht öffnen können.
 
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/qa7d2C30m_o?si=6NrwdKgu5lpNBrD-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
 ## Funktionen
 
 - **Begriffs-Hervorhebung:** Begriffe, die anderswo im Vertrag definiert sind, werden unterstrichen, um sie leicht identifizieren zu können. Grüne Unterstreichungen zeigen an, dass der Begriff im aktuellen Dokument mit der gleichen Groß- und Kleinschreibung definiert ist ("Vertrag" – "Vertrag"), während gelbe Unterstreichungen anzeigen, dass der Begriff in einem nicht übereinstimmenden Fall definiert ist ("Vertrag" – "vertrag").
