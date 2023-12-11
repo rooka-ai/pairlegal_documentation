@@ -1,11 +1,13 @@
 ---
-sidebar_position: 8
+sidebar_position: 9
 ---
 
 # Changelog
 
-## 6. Dezember 2023
-- **UX:** Neues Farbschema
+## 06.12.2023 | Hervorhebung im Text
 
-## 20. November 2023
+- **Neues Feature:** Unterstützung für Hervorhebungen im Text und ein Pop-up beim Überfahren von Text mit dem Mauszeiger hinzugefügt
+
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/JRVLRFX45qE?si=-JqGLF4jzqyhYgVO&amp;controls=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+- **UX:** Neues Farbschema
 - **Fehlerbehebung:** Entfernen von doppelt angezeigten Karten für dieselbe Feiertagswarnung

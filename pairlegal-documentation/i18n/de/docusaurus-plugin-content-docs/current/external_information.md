@@ -1,5 +1,5 @@
 ---
-sidebar_position: 4
+sidebar_position: 7
 ---
 
 # Externe Informationen
@@ -11,6 +11,8 @@ Das Modul für externe Informationen bereichert Ihre Rechtsdokumente, indem es a
 Wenn in einem Dokument ein Unternehmensname erwähnt wird, verknüpft die Funktion diese Erwähnung mit Daten aus dem Unternehmensregister und individuellen Kredit-Score-Datenbanken in ausgewählten Ländern.
 
 Derzeit unterstützt: 🇨🇭, 🇨🇿, 🇸🇰, 🇭🇷.
+
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/DnQzHK9J6p8?si=7Jv47m4wC2roZeDo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ## Gesetzliche Informationen
 
