@@ -1,0 +1,8 @@
+{
+  "label": "Definice",
+  "position": 3,
+  "link": {
+    "type": "generated-index",
+    "description": "Informace o sledování definic v dokumentu."
+  }
+}

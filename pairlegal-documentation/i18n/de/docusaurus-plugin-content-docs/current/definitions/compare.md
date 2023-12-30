@@ -1,5 +1,5 @@
 ---
-sidebar_position: 4
+sidebar_position: 1
 ---
 
 # Vergleichen
@@ -15,4 +15,3 @@ Vergleichen ist derzeit eine Beta-Funktion und wir unterstützen eine begrenzte 
 ## Verwendung von Vergleichen
 
 Für einen gegebenen Begriff bieten wir einen Vergleich mit seinen Definitionen aus anderen, vergangenen Dokumenten an. Um auf diese Funktion zuzugreifen, klicken Sie auf den Tab "Vergleichen" innerhalb der Definitions-Karte.
-

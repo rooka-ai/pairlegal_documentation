@@ -14,7 +14,7 @@ Swap pairs of terms (e.g., "Company" –> "Buyers") over a document in a context
 
 ### QA
 
-The QA (Question and Answer) functionality allows users to ask natural language questions about the legal document they are working on. The AI comprehensively analyzes the text and returns answers together with cited sources.
+The QA (Question and Answer) functionality allows users to ask natural language questions about the legal document they are working on. The AI analyzes the text and returns answers together with cited sources.
 
 ### Playbook
 

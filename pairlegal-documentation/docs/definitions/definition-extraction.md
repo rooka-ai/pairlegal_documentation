@@ -14,17 +14,17 @@ Tracking of **definitions** is designed to enhance contract review processes by 
 
 - **Term Highlighting:** Terms defined elsewhere in the contract are underlined for easy identification. Green underlines indicate that the term is defined in the current document with the same capitalization ("Contract" – "Contract"), while yellow underlines indicate that the term is defined in a non-matching case ("Contract" – "contract").
 
-- **Quick Access:** Selecting a term opens a dedicated card in the sidebar with its definition. From whenever you are in the document, you can quickly access the definition location by double clicking on clicking on the "split window" icon (see video below).
+- **Quick Access:** Selecting a term opens a dedicated card in the sidebar with its definition. From wherever you are in the document, you can quickly access the definition location by double clicking on the "split window" icon (see video below).
 
-- **Nested Term Tracking**: Terms within a definition that are also defined in the contract are tracked and further accessible.
+- **Nested Term Tracking**: Terms within a definition that are also defined in the contract are tracked as well and further accessible from each definition card.
 
 ## Accessing definitions
 
-1. Open the contract document with the plugin enabled. Defined terms will be automatically underlined.
+1. Open the document in MS Word and turn the plugin on by clicking on a corresponding icon in the upper row. Defined terms will be automatically underlined.
 
 2. To view a definition, perform one of the following:
 
-- However over the underlined term directly within the text for a quick preview of the definition.
+- Hover the underlined term directly within the text for a quick preview of the definition.
 - Select a term in the text to trigger the sidebar.
 - Navigate through the sidebar to select a term from a list of "cards" with defined terms.
 

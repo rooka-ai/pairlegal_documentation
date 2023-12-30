@@ -20,7 +20,7 @@ Currently supports 🇨🇭,🇨🇿, 🇸🇰, 🇭🇷.
 Coming soon to selected jurisdictions. Let us know if you would like to see this feature supported for you.
 :::
 
-This feature links mentions of statutory provisions directly to their corresponding texts. Users are able to access the exact wording of laws referenced within their documents, ensuring legal accuracy and compliance.
+This feature links mentions of statutory provisions directly to their corresponding texts. Users are able to access the exact wording of laws referenced within their documents.
 
 ## Case-law & citations
 
