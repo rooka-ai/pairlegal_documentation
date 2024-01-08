@@ -6,7 +6,7 @@ sidebar_position: 1
 
 ## Shrnutí
 
-Sledování **definic** je navrženo tak, aby usnadnilo revizi smlouvy tím, že umožňuje přímou kontrolu definic a termínům definovaných v otevřeném dokumentu. Díky této funkce není nutné ručně vyhledávát definice a termíny skrze 'split-view' v MS Wordu.
+Sledování **definic** je navrženo tak, aby usnadnilo revizi smlouvy tím, že umožňuje přímou kontrolu definic a termínům definovaných v otevřeném dokumentu. Díky této funkce není nutné ručně vyhledávát definice a termíny skrze `split-view` v MS Wordu.
 
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/qa7d2C30m_o?si=6NrwdKgu5lpNBrD-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
