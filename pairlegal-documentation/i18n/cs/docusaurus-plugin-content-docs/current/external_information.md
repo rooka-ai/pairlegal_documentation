@@ -24,8 +24,4 @@ Tato funkce propojuje zmínky o zákonných ustanoveních s jejich účinným zn
 
 ## Judikatura a citace
 
-:::varování Již brzy
-Již brzy pro vybrané jurisdikce. Dejte nám vědět, pokud byste chtěli, aby tato funkce byla podporována i u vás.
-:::
-
 Podobně jako zákonné informace tato funkce propojuje zmínky o judikatuře s odkazem na úplné znění, které je dostupné po kliknutí na odkaz.
