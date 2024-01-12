@@ -31,7 +31,7 @@ v MS Wordu.
 ## Přístup k definicím
 
 1. Otevřete dokument v MS Word a zapněte plugin klikem na ikonku v horním pásu.
-    Definované pojmy budou automaticky podtrženy.
+   Definované pojmy budou automaticky podtrženy.
 
 2. Chcete-li zobrazit definici:
 
