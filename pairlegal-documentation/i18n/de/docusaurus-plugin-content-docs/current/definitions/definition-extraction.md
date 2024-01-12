@@ -42,7 +42,7 @@ Fall definiert ist ("Vertrag" – "vertrag").
   Vorschau der Definition zu erhalten.
 - Wählen Sie einen Begriff im Text aus, um die Seitenleiste auszulösen.
 - Navigieren Sie durch die Seitenleiste, um einen Begriff aus einer Liste von "Karten"
-mit definierten Begriffen auszuwählen.
+  mit definierten Begriffen auszuwählen.
 
 ## Anzeigen von Definitionen
 
