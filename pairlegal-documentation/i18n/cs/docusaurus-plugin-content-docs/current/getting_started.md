@@ -21,4 +21,4 @@ Plugin si můžete stáhnout a vytvořit si účet na adrese
  dispozici vždy nejnovější verzi.
 
 V současné době podporujeme pouze systém Windows, verze pro Mac bude k dispozici
- k dubnu 2024.
+k dubnu 2024.
