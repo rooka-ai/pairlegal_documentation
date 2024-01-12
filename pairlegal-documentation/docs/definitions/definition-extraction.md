@@ -38,7 +38,7 @@ terms manually by allowing you to open up a split-view.
 definition.
 - Select a term in the text to trigger the sidebar.
 - Navigate through the sidebar to select a term from a list of "cards" with defined
-terms.
+  terms.
 
 ## Viewing definition
 
