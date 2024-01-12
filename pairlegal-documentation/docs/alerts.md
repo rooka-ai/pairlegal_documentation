@@ -30,8 +30,11 @@ The alert is triggered when the document contains a clause to be filled in, e.g.
 
 ### Unbalanced bracket
 
-Unbalanced brackets can lead to confusion in interpreting the document's provisions. This alert detects any (mismatched parentheses)), braces, or square brackets to prevent potential misreadings of the contract's terms.
+Unbalanced brackets can lead to confusion in interpreting the document's provisions.
+This alert detects any (mismatched parentheses)), braces, or square brackets to prevent
+potential misreadings of the contract's terms.
 
 ### IBAN check
 
-The IBAN (International Bank Account Number) Check validates the format and structure of IBANs mentioned in the document, ensuring that bank details are correctly specified.
+The IBAN (International Bank Account Number) Check validates the format and structure of
+IBANs mentioned in the document, ensuring that bank details are correctly specified.
