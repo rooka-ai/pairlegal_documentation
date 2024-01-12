@@ -38,7 +38,7 @@ v MS Wordu.
 - Najeďte myší na podtržený termín přímo v textu pro rychlý náhled definice.
 - Označte myší termín v textu, čímž spustíte postranní panel.
 - Scrollujte postranním panelem a vyberte termín ze seznamu "karet" s definovanými
-   termíny.
+  termíny.
 
 ## Zobrazení definice
 
