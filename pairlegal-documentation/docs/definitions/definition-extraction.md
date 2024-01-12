@@ -30,7 +30,7 @@ contract are tracked as well and further accessible from each definition card.
 ## Accessing definitions
 
 1. Open the document in MS Word and turn the plugin on by clicking on a corresponding
-icon in the upper row. Defined terms will be automatically underlined.
+  icon in the upper row. Defined terms will be automatically underlined.
 
 2. To view a definition, perform one of the following:
 
