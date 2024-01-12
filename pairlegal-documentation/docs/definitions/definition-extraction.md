@@ -21,8 +21,8 @@ terms manually by allowing you to open up a split-view.
   indicate that the term is defined in a non-matching case ("Contract" – "contract").
 
 - **Quick Access:** Selecting a term opens a dedicated card in the sidebar with its
-definition. From wherever you are in the document, you can quickly access the definition
-location by double clicking on the "split window" icon (see video below).
+  definition. From wherever you are in the document, you can quickly access the definition
+  location by double clicking on the "split window" icon (see video below).
 
 - **Nested Term Tracking**: Terms within a definition that are also defined in the
 contract are tracked as well and further accessible from each definition card.
