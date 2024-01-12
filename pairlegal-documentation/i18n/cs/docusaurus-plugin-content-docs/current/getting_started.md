@@ -15,10 +15,10 @@ ponechává vám neustálou kontrolu nad dokumentem.
 
 Plugin si můžete stáhnout a vytvořit si účet na adrese
 [download.singledraft.ai](http://download.singledraft.ai/) Po vytvoření účtu máte
- okamžitě přístup ke všem funkcím pluginu. Náš obchodní tým vás poté osloví, aby
- s vámi probral veškeré dotazy, poskytl ukázku a projednal parametry vašeho
- pilotního programu. Plugin je automaticky aktualizován, takže budete mít k
- dispozici vždy nejnovější verzi.
+okamžitě přístup ke všem funkcím pluginu. Náš obchodní tým vás poté osloví, aby
+s vámi probral veškeré dotazy, poskytl ukázku a projednal parametry vašeho
+pilotního programu. Plugin je automaticky aktualizován, takže budete mít k
+dispozici vždy nejnovější verzi.
 
 V současné době podporujeme pouze systém Windows, verze pro Mac bude k dispozici
 k dubnu 2024.
