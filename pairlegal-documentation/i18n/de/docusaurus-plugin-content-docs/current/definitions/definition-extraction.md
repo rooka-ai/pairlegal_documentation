@@ -29,7 +29,7 @@ Fall definiert ist ("Vertrag" – "vertrag").
   doppelklicken (siehe Video unten).
 
 - **Verfolgung von verschachtelten Begriffen**: Begriffe innerhalb einer Definition,
-die ebenfalls im Vertrag definiert sind, werden verfolgt und sind weiterhin zugänglich.
+  die ebenfalls im Vertrag definiert sind, werden verfolgt und sind weiterhin zugänglich.
 
 ## Zugriff auf Definitionen
 
