@@ -16,9 +16,9 @@ terms manually by allowing you to open up a split-view.
 ## Features
 
 - **Term Highlighting:** Terms defined elsewhere in the contract are underlined for
-easy identification. Green underlines indicate that the term is defined in the current
-document with the same capitalization ("Contract" – "Contract"), while yellow underlines
-indicate that the term is defined in a non-matching case ("Contract" – "contract").
+  easy identification. Green underlines indicate that the term is defined in the current
+  document with the same capitalization ("Contract" – "Contract"), while yellow underlines
+  indicate that the term is defined in a non-matching case ("Contract" – "contract").
 
 - **Quick Access:** Selecting a term opens a dedicated card in the sidebar with its
 definition. From wherever you are in the document, you can quickly access the definition
