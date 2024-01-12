@@ -24,9 +24,9 @@ anzeigen, dass der Begriff in einem nicht übereinstimmenden
 Fall definiert ist ("Vertrag" – "vertrag").
 
 - **Schneller Zugriff:** Die Auswahl eines Begriffs öffnet eine spezielle Karte in der
-Seitenleiste mit seiner Definition. Von jedem Punkt im Dokument aus können Sie schnell
-auf den Definitionsstandort zugreifen, indem Sie auf das Symbol "geteiltes Fenster"
-doppelklicken (siehe Video unten).
+  Seitenleiste mit seiner Definition. Von jedem Punkt im Dokument aus können Sie schnell
+  auf den Definitionsstandort zugreifen, indem Sie auf das Symbol "geteiltes Fenster"
+  doppelklicken (siehe Video unten).
 
 - **Verfolgung von verschachtelten Begriffen**: Begriffe innerhalb einer Definition,
 die ebenfalls im Vertrag definiert sind, werden verfolgt und sind weiterhin zugänglich.
