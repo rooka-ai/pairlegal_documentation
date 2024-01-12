@@ -34,7 +34,7 @@ Fall definiert ist ("Vertrag" – "vertrag").
 ## Zugriff auf Definitionen
 
 1. Öffnen Sie das Vertragsdokument mit dem aktivierten Plugin. Definierte Begriffe
-werden automatisch unterstrichen.
+    werden automatisch unterstrichen.
 
 2. Um eine Definition anzuzeigen, führen Sie eine der folgenden Aktionen aus:
 
