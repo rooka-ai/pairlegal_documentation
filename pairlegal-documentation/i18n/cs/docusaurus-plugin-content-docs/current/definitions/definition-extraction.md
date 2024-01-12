@@ -22,8 +22,8 @@ v MS Wordu.
   ("Smlouva" - "smlouva").
 
 - **Rychlý přístup:** Výběrem termínu se v postranním panelu otevře příslušná karta s
-jeho definicí. Kdekoliv se v dokumentu nacházíte, můžete se k původnímu umístění
-definice dostat dvojitým kliknutím na ikonu "rozděleného okna" (viz video níže).
+   jeho definicí. Kdekoliv se v dokumentu nacházíte, můžete se k původnímu umístění
+   definice dostat dvojitým kliknutím na ikonu "rozděleného okna" (viz video níže).
 
 - **Vnořené definice**: Termíny v definici, které jsou také zvlášť definovány ve
 smlouvě, jsou taktéž sledovány a dále přístupné z každé karty definice.
