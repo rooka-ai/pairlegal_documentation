@@ -16,10 +16,10 @@ v MS Wordu.
 ## Jednotlivé funkce
 
 - **Zvýraznění zmínek:** Termíny definované v jiných částech smlouvy jsou pro snadnou
-identifikaci podtrženy přímo v textu. Zelené podtržení znamená, že termín je definován v
-aktuálním dokumentu se shodným počátečním písmenem ("Smlouva" - "Smlouva"),
-zatímco žluté podtržení znamená, že termín je definován s rozdílným počátečním systémem
-("Smlouva" - "smlouva").
+   identifikaci podtrženy přímo v textu. Zelené podtržení znamená, že termín je definován v
+   aktuálním dokumentu se shodným počátečním písmenem ("Smlouva" - "Smlouva"),
+   zatímco žluté podtržení znamená, že termín je definován s rozdílným počátečním systémem
+  ("Smlouva" - "smlouva").
 
 - **Rychlý přístup:** Výběrem termínu se v postranním panelu otevře příslušná karta s
 jeho definicí. Kdekoliv se v dokumentu nacházíte, můžete se k původnímu umístění
