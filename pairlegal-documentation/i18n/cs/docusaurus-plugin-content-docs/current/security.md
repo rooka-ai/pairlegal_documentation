@@ -5,7 +5,7 @@ sidebar_position: 2
 # Bezpečnost a ochrana dat
 
 Ani my, ani naši uživatelé nemůžeme dělat kompromisy v oblasti bezpečnosti a
-ochrany osobních údajů. Dodržujeme odvětvové standardy a přijali jsme řadu opatření,
+ochrany osobních údajů. Dodržujeme bezpečnostní standardy a přijali jsme řadu opatření,
 abychom zajistili, že vaše data budou v bezpečí. Stručně řečeno: na našich serverech se
 neukládají žádná data, nepoužívají se žádná data pro trénink jazykových nebo jiných
 modelů, nevíme, který uživatel zadává konkrétní dotaz, veškerá komunikace je šifrovaná
