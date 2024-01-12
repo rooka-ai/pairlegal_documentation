@@ -25,7 +25,7 @@ terms manually by allowing you to open up a split-view.
   location by double clicking on the "split window" icon (see video below).
 
 - **Nested Term Tracking**: Terms within a definition that are also defined in the
-contract are tracked as well and further accessible from each definition card.
+  contract are tracked as well and further accessible from each definition card.
 
 ## Accessing definitions
 
