@@ -8,9 +8,9 @@ import { themes as prismThemes } from "prism-react-renderer";
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: "Rooka",
-  tagline: "Legal Drafting. Redefined.",
-  favicon: "img/logo.png",
+  title: 'SingleDraft',
+  tagline: 'Legal Drafting. Redefined.',
+  favicon: 'img/logo.png',
 
   // Set the production url of your site here
 
@@ -33,8 +33,8 @@ const config = {
   // useful metadata like html lang. For example, if your site is Chinese, you
   // may want to replace "en" with "zh-Hans".
   i18n: {
-    defaultLocale: "en",
-    locales: ["en", "de"],
+    defaultLocale: 'en',
+    locales: ['en', "de", "cs"],
   },
 
   presets: [
@@ -77,9 +77,9 @@ const config = {
       image: "img/Logo.svg",
       navbar: {
         logo: {
-          alt: "Rooka Logo",
-          src: "img/logo.svg",
-          srcDark: "img/logo_dark.svg",
+          alt: 'SingleDraft Logo',
+          src: 'img/logo.svg',
+          srcDark: 'img/logo_dark.svg'
         },
         items: [
           {
@@ -87,9 +87,9 @@ const config = {
             position: "right",
           },
           {
-            href: "https://www.rooka.ai",
-            label: "About us",
-            position: "right",
+            href: 'https://www.singledraft.ai/',
+            label: 'SingleDraft',
+            position: 'right',
           },
         ],
       },

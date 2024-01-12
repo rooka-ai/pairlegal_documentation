@@ -1,0 +1,14 @@
+{
+  "version.label": {
+    "message": "Nejnovější verze",
+    "description": "The label for version current"
+  },
+  "sidebar.tutorialSidebar.category.Definitions": {
+    "message": "Definice",
+    "description": "The label for category Definitions in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Definitions.link.generated-index.description": {
+    "message": "Informace o sledování definic v rámci dokumentu.",
+    "description": "The generated-index page description for category Definitions in sidebar tutorialSidebar"
+  }
+}

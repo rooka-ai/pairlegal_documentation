@@ -6,11 +6,11 @@ sidebar_position: 4
 
 ## Overview
 
-Alerts are proactive notifications that assist users in maintaining the integrity and consistency of legal documents. They provide real-time feedback and warnings about potential issues that could affect the consistency or clarity of the document.
-
-##  Individual alerts
-
-Each alert is designed to act as a safeguard, ensuring that the legal documents you prepare are free from common errors and inconsistencies, ultimately preserving their enforceability and professionalism.
+Alerts are proactive notifications that assist users in maintaining the integrity and
+consistency of legal documents. They provide real-time feedback and warnings about
+potential issues that could affect the consistency or clarity of the document.
+Each alert is designed to act as a safeguard, ensuring that the legal documents you
+prepare are free from common errors and inconsistencies.
 
 ### Definition-related alerts
 
@@ -34,8 +34,11 @@ The alert is triggered when the document contains a clause to be filled in, e.g.
 
 ### Unbalanced bracket
 
-Unbalanced brackets can lead to confusion in interpreting the document's provisions. This alert detects any (mismatched parentheses)), braces, or square brackets to prevent potential misreadings of the contract's terms.
+Unbalanced brackets can lead to confusion in interpreting the document's provisions.
+This alert detects any (mismatched parentheses)), braces, or square brackets to prevent
+potential misreadings of the contract's terms.
 
 ### IBAN check
 
-The IBAN (International Bank Account Number) Check validates the format and structure of IBANs mentioned in the document, ensuring that bank details are correctly specified to avoid transactional errors.
+The IBAN (International Bank Account Number) Check validates the format and structure of
+IBANs mentioned in the document, ensuring that bank details are correctly specified.

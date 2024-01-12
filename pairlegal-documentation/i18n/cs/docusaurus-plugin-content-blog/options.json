@@ -8,7 +8,7 @@
     "description": "Blog"
   },
   "sidebar.title": {
-    "message": "Recent posts",
-    "description": "Recent posts"
+    "message": "Nedávné příspěvky",
+    "description": "Nedávné příspěvky"
   }
 }
