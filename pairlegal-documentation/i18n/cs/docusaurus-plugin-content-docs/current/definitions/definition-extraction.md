@@ -26,7 +26,7 @@ v MS Wordu.
    definice dostat dvojitým kliknutím na ikonu "rozděleného okna" (viz video níže).
 
 - **Vnořené definice**: Termíny v definici, které jsou také zvlášť definovány ve
-smlouvě, jsou taktéž sledovány a dále přístupné z každé karty definice.
+   smlouvě, jsou taktéž sledovány a dále přístupné z každé karty definice.
 
 ## Přístup k definicím
 
