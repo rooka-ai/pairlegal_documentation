@@ -26,7 +26,7 @@ diesem Prozess beteiligten Mitarbeiter sind an Vertraulichkeitsvereinbarungen ge
 
 ## Neuartige Technologie, unterstützt durch bewährte Verfahren
 
-Unser Backend ist auf der Infrastruktur von [SingleCase] (<https://www.singlecase.com/>)
+Unser Backend ist auf der Infrastruktur von [SingleCase](<https://www.singlecase.com/>)
 aufgebaut, so dass wir von deren >10-jähriger Erfahrung in der Bereitstellung sicherer
 und zuverlässiger Dienste für die Rechtsbranche profitieren können. Wir verwenden die
 neueste Technologie, um Ihnen die bestmögliche Erfahrung zu bieten und gleichzeitig
