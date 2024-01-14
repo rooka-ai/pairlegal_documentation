@@ -1,10 +1,11 @@
 ## Checklist
 
 <!--
-  Put into **bold** for each item the appropriate option.
-  Then mark the item with an `x` like so: 
-  `- [x] ENGLISH | verified by: Jan / **Sven** / Marek 
+  Either write a name of the person who verified the translation or just
+  check the box if no verification is needed.
+  `- [x] ENGLISH | Sven`
+  `- [x] ENGLISH | `
 -->
-- [ ] ENGLISH | verified by: Jan / Sven / Marek
-- [ ] CZECH| verified by: Jan / Marek
-- [ ] GERMAN | verified by: Sven
+- [ ] 🇬🇧 ENGLISH |
+- [ ] 🇨🇿 CZECH |
+- [ ] 🇩🇪 GERMAN |
