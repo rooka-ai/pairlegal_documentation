@@ -16,7 +16,7 @@ In short:
 - no tracking between user's data and user's identity
 - we apply least privilege access to logs and user management data
 - all communication between plugin and our servers is encrypted with TLS and takes place
-  in EU
+  in the EU
 
 ## Data reuse
 
