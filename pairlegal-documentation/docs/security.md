@@ -14,7 +14,7 @@ In short:
 - no user data is logged by the application
 - no user data is shared with third parties
 - no tracking between user's data and user's identity
-- we apply least privilege access to logs and user management data
+- we apply the least privilege access to logs and user management data
 - all communication between plugin and our servers is encrypted with TLS and takes place
   in the EU
 
