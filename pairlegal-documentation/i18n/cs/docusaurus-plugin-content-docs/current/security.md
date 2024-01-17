@@ -15,7 +15,7 @@ Stručně řečeno:
 - žádná uživatelská data nejsou sdílena s třetími stranami
 - žádné propojení mezi zpracovávanými daty uživatele a jeho identitou
 - k logům a údajům o uživatelích používáme přístup "least privileged access"
-- veškerá komunikace mezi plugigem a našimi servery je šifrována pomocí TLS a probíhá
+- veškerá komunikace mezi pluginem a našimi servery je šifrována pomocí TLS a probíhá
   v EU
 
 ## Opětovné použití dat
