@@ -96,7 +96,7 @@ const config = {
       footer: {
         style: "dark",
         links: [],
-        copyright: `Rooka Labs`,
+        copyright: `Single Draft`,
       },
       prism: {
         theme: prismThemes.github,
