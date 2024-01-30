@@ -6,12 +6,19 @@ sidebar_position: 2
 
 Ani my, ani naši uživatelé nemůžeme dělat kompromisy v oblasti bezpečnosti a
 ochrany osobních údajů. Dodržujeme bezpečnostní standardy a přijali jsme řadu opatření,
-abychom zajistili, že vaše data budou v bezpečí. Stručně řečeno: na našich serverech se
-neukládají žádná data, nepoužívají se žádná data pro trénink jazykových nebo jiných
-modelů, nevíme, který uživatel zadává konkrétní dotaz, veškerá komunikace je šifrovaná
-a standardně probíhá v EU.
+abychom zajistili, že vaše data budou v bezpečí.
+Stručně řečeno:
 
-## Opětovné použití údajů
+- na našich serverech nejsou ukládána žádná uživatelská data
+- žádná uživatelská data nejsou používána k trénování jazykových nebo jiných modelů
+- aplikace nezaznamenává žádná uživatelská data
+- žádná uživatelská data nejsou sdílena s třetími stranami
+- žádné propojení mezi zpracovávanými daty uživatele a jeho identitou
+- k logům a údajům o uživatelích používáme přístup "least privileged access"
+- veškerá komunikace mezi pluginem a našimi servery je šifrována pomocí TLS a probíhá
+  v EU
+
+## Opětovné použití dat
 
 My ani žádní vybraní poskytovatelé služeb (jazykových modelů) nepoužívají vaše údaje
 pro trénování modelů. Vaše údaje tedy nepoužíváme k jiným účelům, než je poskytování
@@ -30,6 +37,11 @@ ež desetileté zkušenosti s poskytováním bezpečných a spolehlivých služe
 právní odvětví. Využíváme nejmodernější technologie, abychom vám poskytli nejlepší
 možný zážitek a zároveň zajistili, že zabezpečení je založeno na osvědčených a
 testovaných řešeních.
+
+## Nebudeme vás kontaktovat a žádat o vaše heslo
+
+Nikdy vás nebudeme žádat, abyste nám sdělili své heslo.
+Pokud své heslo zapomenete, můžete si jej obnovit.
 
 ## Vyžádejte si smlouvu na míru
 
