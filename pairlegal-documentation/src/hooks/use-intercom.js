@@ -1,7 +1,6 @@
-import React, { useEffect, useState } from 'react';
+import { useEffect, useState } from 'react';
 import queryString from 'query-string';
-import { Redirect, useLocation } from '@docusaurus/router';
-import useBaseUrl from '@docusaurus/useBaseUrl';
+import { useLocation } from '@docusaurus/router';
 
 const useIntercom = () => {
   const [intercomShown, setIntercomShown] = useState(false);
@@ -16,8 +15,6 @@ const useIntercom = () => {
       const intercomDataJson = atob(queryParams.intercom);
       const intercomData = JSON.parse(intercomDataJson);
 
-      console.log(intercomData);
-
       window.Intercom = window.Intercom || function () {
         window.Intercom.q.push(arguments);
       };
@@ -28,7 +25,7 @@ const useIntercom = () => {
       const ic = document.createElement('script');
       ic.type = 'text/javascript';
       ic.async = true;
-      ic.src = `https://widget.intercom.io/widget/${intercomData.appId}`;
+      ic.src = `https://widget.intercom.io/widget/${intercomData.AppId}`;
       ic.onload = () => {
         window.Intercom('boot', {
           app_id: intercomData.AppId,
