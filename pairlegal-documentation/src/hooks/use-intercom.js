@@ -29,7 +29,7 @@ const useIntercom = () => {
       ic.onload = () => {
         window.Intercom('boot', {
           app_id: intercomData.AppId,
-          email: intercomData.Username,
+          user_id: intercomData.Username,
           user_hash: intercomData.HashedUsername,
         });
         window.Intercom('show');
