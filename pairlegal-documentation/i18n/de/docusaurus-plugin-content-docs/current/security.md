@@ -6,11 +6,17 @@ sidebar_position: 2
 
 Sowohl wir als auch unsere Nutzer können keine Kompromisse bei den Sicherheits- und
 Datenschutzstandards eingehen. Wir halten uns an den Industriestandard und haben eine
-Reihe von Maßnahmen ergriffen, um zu gewährleisten, dass Ihre Daten sicher und geschützt
-sind. Kurz gesagt: keine Daten werden auf unseren Servern gespeichert, keine Daten
-werden für das Training von Sprach- oder anderen Modellen verwendet, wir wissen nicht,
-welcher Nutzer eine bestimmte Anfrage stellt, die gesamte Kommunikation ist
-verschlüsselt und findet standardmäßig in der EU statt.
+Reihe von Maßnahmen ergriffen, um zu gewährleisten, dass Ihre Daten sicher und geschützt sind.
+
+Um es kurz zu machen:
+
+- Keine Nutzerdaten werden auf unseren Servern gespeichert
+- Keine Nutzerdaten werden für das Training von Sprach- oder anderen Modellen verwendet
+- Keine Benutzerdaten werden von der Anwendung protokolliert
+- Keine Weitergabe von Nutzerdaten an Dritte
+- Keine Rückverfolgung von Daten des Benutzers zur Identität des Benutzers möglich
+- Wir arbeiten mit dem Prinzip der geringstmöglichen Zugriffsrechte auf Protokolle und Benutzerverwaltungsdaten
+- Die gesamte Kommunikation zwischen dem Plugin und unseren Servern ist mit TLS verschlüsselt und findet innerhalb der EU (oder in der Schweiz für Schweizer Kunden) statt
 
 ## Wiederverwendung von Daten
 
@@ -32,7 +38,11 @@ und zuverlässiger Dienste für die Rechtsbranche profitieren können. Wir verwe
 neueste Technologie, um Ihnen die bestmögliche Erfahrung zu bieten und gleichzeitig
 sicherzustellen, dass die Sicherheit auf bewährten und getesteten Lösungen basiert.
 
+## Wir werden Sie niemals nach Ihrem Passwort fragen.
+
+Wir werden Sie niemals auffordern, uns Ihr Passwort mitzuteilen.
+Wenn Sie Ihr Passwort vergessen haben, können Sie es zurücksetzen.
+
 ## Individuelle Vereinbarung anfordern
 
-Wenn Ihr IT-Team eine maßgeschneiderte Vereinbarung oder Dokumentation benötigt,
-wenden Sie sich bitte an uns.
+Wenn Ihr IT-Team eine individuelle Vereinbarung oder Dokumentation benötigt, nehmen Sie bitte Kontakt zu uns auf.
