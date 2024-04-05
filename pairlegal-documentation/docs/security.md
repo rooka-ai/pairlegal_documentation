@@ -9,6 +9,7 @@ privacy. We are following the industry-standard and have implemented a number
 of measures to ensure that your data is safe and secure.
 
 In short:
+
 - no user data is stored on our servers
 - no user data is used for training of language or any other models
 - no user data is logged by the application
@@ -16,7 +17,7 @@ In short:
 - no tracking between user's data and user's identity
 - we apply the least privilege access to logs and user management data
 - all communication between plugin and our servers is encrypted with TLS and takes place
-  in the EU
+  in the EU (or in Switzerland for Swiss customers)
 
 ## Data reuse
 

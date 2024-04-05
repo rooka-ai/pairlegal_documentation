@@ -16,7 +16,7 @@ Stručně řečeno:
 - žádné propojení mezi zpracovávanými daty uživatele a jeho identitou
 - k logům a údajům o uživatelích používáme přístup "least privileged access"
 - veškerá komunikace mezi pluginem a našimi servery je šifrována pomocí TLS a probíhá
-  v EU
+  v EU či Švýcarsku (pro švýcarské zákazníky)
 
 ## Opětovné použití dat
 
