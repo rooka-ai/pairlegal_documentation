@@ -1,0 +1,38 @@
+name: PR Lint
+
+on:
+  pull_request:
+    types: [opened, synchronize, reopened, edited]
+    branches-ignore:
+      - "dependabot/**"
+
+concurrency:
+  group: ${{ github.workflow }}-${{ github.ref }}
+  cancel-in-progress: true
+
+permissions: write-all
+
+jobs:
+  pr-lint:
+    runs-on: ubuntu-latest
+    steps:
+      - name: PR Conventional Commit Validation
+        uses: ytanikin/PRConventionalCommits@1.1.0
+        with:
+          task_types: '["feat","fix","docs","refactor","chore"]'
+          custom_labels: '{"feat": "⬆️ enhancement", "fix": "🐞 bug", "refactor": "⬆️ enhancement", "docs": "📄 documentation"}'
+
+      - name: copy-issue-labels
+        uses: michalvankodev/copy-issue-labels@v1.3.0
+        with:
+          repo-token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: size-label
+        uses: pascalgn/size-label-action@v0.5.0
+        env:
+          GITHUB_TOKEN: "${{ secrets.GITHUB_TOKEN }}"
+
+      - name: auto-assign
+        uses: kentaro-m/auto-assign-action@v2.0.0
+        with:
+          configuration-path: ".github/assign_config.yml"
