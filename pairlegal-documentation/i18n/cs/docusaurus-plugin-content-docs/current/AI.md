@@ -12,7 +12,7 @@ spusťte vybraný postup.
 ### Chytré nahrazení
 
 Vyměňte dvojice výrazů (např. "Společnost" -> "Kupující") v dokumentu způsobem
-zohledňujícím kontext. Po výběru dvojice nebo dvojic vrátí zásuvný modul seznam
+zohledňujícím kontext. Po výběru dvojice nebo dvojic vrátí plugin seznam
 navrhovaných náhrad, které lze jednotlivě přijmout nebo odmítnout.
 
 ### QA

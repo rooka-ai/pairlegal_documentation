@@ -50,6 +50,6 @@ Chcete-li projít všechny zmínky v rámci smlouvy, klikněte na kartu "Zmínky
 karty.
 
 :::tip Skloňování
-Zásuvný modul podporuje skloňování definovaných slov. Pokud je například definován
-termín "Smlouva", plugin rozpozná jako výskyt definovaného termínu také "Smlouvy".
+Plugin podporuje skloňování definovaných slov. Pokud je například definován
+termín "Smlouva", plugin rozpozná též "Smlouvy", "Smlouvě" ...
 :::

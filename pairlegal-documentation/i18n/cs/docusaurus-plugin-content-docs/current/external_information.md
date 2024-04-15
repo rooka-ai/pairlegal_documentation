@@ -20,7 +20,7 @@ V současné době podporujeme informaci v 🇨🇭,🇨🇿, 🇸🇰, 🇭🇷
 
 ## Účinné znění zákonů
 
-:::varování Již brzy
+:::warning Již brzy
 Již brzy pro zákony v 🇨🇿.
 :::
 
