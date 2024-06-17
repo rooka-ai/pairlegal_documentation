@@ -7,9 +7,8 @@ sidebar_position: 3
 ## Shrnutí
 
 Sledování **definic** je navrženo tak, aby usnadnilo revizi smlouvy tím, že
-umožňuje přímou kontrolu definic a termínům definovaných v otevřeném dokumentu.
-Díky této funkci není nutné ručně vyhledávát definice a termíny skrze `split-view`
-v MS Wordu.
+umožňuje přímou kontrolu definic a termínů definovaných v otevřeném dokumentu.
+Díky této funkci není nutné manuálně vyhledávát definice.
 
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/qa7d2C30m_o?si=6NrwdKgu5lpNBrD-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
@@ -17,10 +16,16 @@ v MS Wordu.
 
 - **Rychlý přístup:** Výběrem termínu se v postranním panelu otevře příslušná karta s
   jeho definicí. Kdekoliv se v dokumentu nacházíte, můžete se k původnímu umístění
-  definice dostat dvojitým kliknutím na ikonu "rozděleného okna" (viz video níže).
+  definice dostat kliknutím na ikonu "rozděleného okna" (viz video níže).
 
 - **Vnořené definice**: Termíny v definici, které jsou také zvlášť definovány ve
-  smlouvě, jsou taktéž sledovány a dále přístupné z každé karty definice.
+  smlouvě, jsou taktéž sled
+  
+- **Upozornění**: Kontrolujeme konzistenci definovaných termínů a upozorňujeme na definované
+  termíny, které se následně nepoužívají, duplicitní definice nebo nekonzistentní použití termínu v dokumentu (např. definování slova s velkým písmenem, které se následně odkazuje na slovo malým písmenem). Všechna jednotlivá upozornění lze odmítnout.
+
+- **Srovnání**: Pro vybrané jurisdikce poskytujeme funkci pro porovnání definic s právním
+  slovníkem (např. českým LegalVOC).
 
 ## Přístup k definicím
 
