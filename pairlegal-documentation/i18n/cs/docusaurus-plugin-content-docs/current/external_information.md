@@ -14,9 +14,14 @@ Pokud je v dokumentu zmíněn název společnosti, funkce tuto zmínku porovná 
 obchodního rejstříku a jednotlivých databází úvěrových hodnocení ve
 vybraných jurisdikcích.
 
-V současné době podporujeme informaci v 🇨🇭,🇨🇿, 🇸🇰, 🇭🇷.
+V současné době podporujeme informace o společnostech v 🇨🇭,🇨🇿, 🇸🇰, 🇭🇷.
 
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/DnQzHK9J6p8?si=7Jv47m4wC2roZeDo" title="Přehrávač videa YouTube" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>.
+
+## Katastr nemovitostí
+
+Ohledně parcel zmíněných v textu zobrazujeme dostupné informace z katastru nemovitostí,
+kontrolujeme jejich existence a správný typ parcely.
 
 ## Účinné znění zákonů
 

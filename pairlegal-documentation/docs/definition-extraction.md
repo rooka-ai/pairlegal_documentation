@@ -15,11 +15,6 @@ terms manually by allowing you to open up a split-view.
 
 ## Features
 
-- **Term Highlighting:** Terms defined elsewhere in the contract are underlined for
-  easy identification. Green underlines indicate that the term is defined in the current
-  document with the same capitalization ("Contract" – "Contract"), while yellow underlines
-  indicate that the term is defined in a non-matching case ("Contract" – "contract").
-
 - **Quick Access:** Selecting a term opens a dedicated card in the sidebar with its
   definition. From wherever you are in the document, you can quickly access the definition
   location by double clicking on the "split window" icon (see video below).
@@ -34,8 +29,6 @@ terms manually by allowing you to open up a split-view.
 
 2. To view a definition, perform one of the following:
 
-- Hover the underlined term directly within the text for a quick preview of the
-definition.
 - Select a term in the text to trigger the sidebar.
 - Navigate through the sidebar to select a term from a list of "cards" with defined
   terms.

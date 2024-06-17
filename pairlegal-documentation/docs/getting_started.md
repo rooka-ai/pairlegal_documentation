@@ -17,11 +17,5 @@ decisions.
 
 ## Download
 
-You can download the plugin and create an account on
-[download.singledraft.ai](http://download.singledraft.ai/) Once you create the account,
-you can immediately access all of the features of the plugin. Our sales team will then
-reach out to discuss any questions you may have, provide a demo, and discuss parameters
-of your pilot program. The plugin is being automatically updated, so you will always
-have the latest version.
-
-We currently support Windows only, with a Mac version coming in April 2024.
+The plugin is available for both Windows and Mac platforms. For information on
+installation and use contact us at [info@singledraft.ai](mailto:info@singledraft.ai)

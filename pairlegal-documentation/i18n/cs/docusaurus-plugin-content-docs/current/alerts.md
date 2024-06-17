@@ -24,11 +24,11 @@ například na způsob psaní dat, na to, zda se má používat obrat "a / nebo"
 Nabízíme řadu těchto upozornění, která lze jednotlivě zapnout, ale můžeme také
 vytvořit upozornění na míru podle vašich potřeb.
 
-### Upozornění na státní svátky
+### Upozornění na dny volna
 
 Upozornění na svátky kontroluje data uvedená v dokumentu podle databáze státních
-svátků a je spuštěno, pokud se datum v textu shoduje se dnem volna v kterékoliv se zemí,
-která je uvedena v dokumentu.
+svátků a víkendů. Upozornění se zobrazí, pokud se datum v textu shoduje se dnem volna
+v kterékoliv se zemí, která je uvedena v dokumentu.
 
 ### Upozornění na doplnění šablony
 
@@ -37,9 +37,20 @@ např. větu "Strany se dohodly, že [vložte datum] je datem, ...".
 
 ### Nevyvážená závorka
 
-Toto upozornění detekuje případné (nesouhlasné závorky)).
+Toto upozornění detekuje případné (nesouhlasné závorky)), tedy případy, kdy se
+v odstavci neshoduje počet levých a pravých závorek.
 
-### Kontrola IBAN
+### Kontrola standardních čísel
 
-Kontrola IBAN (mezinárodního čísla bankovního účtu) ověřuje formát a strukturu
-IBAN uvedených v dokumentu a zajišťuje, aby byly bankovní údaje správně uvedeny.
+Kontrola standardních čísel ověřuje formát a strukturu čísel uvedených v dokumentu.
+Kontrolujeme validitu rodných čísel, čísel bankovních účtů (vč. formátu IBAN) a dalších.
+
+### Kontrola úplnosti názvů společnosti
+
+Pro každou společnost uvedenou v dokumentu plugin kontroluje, zda je v okolí IČ uveden
+i příslušný název společnosti.
+
+### Kontrola existence a typu parcely
+
+Pokud je v dokumentu uvedena parcela, plugin ověří, zda je parcela v katastru nemovitostí
+a zda je uveden správný typ parcely.
