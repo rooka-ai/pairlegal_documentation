@@ -15,12 +15,6 @@ v MS Wordu.
 
 ## Jednotlivé funkce
 
-- **Zvýraznění zmínek:** Termíny definované v jiných částech smlouvy jsou pro snadnou
-  identifikaci podtrženy přímo v textu. Zelené podtržení znamená, že termín je definován v
-  aktuálním dokumentu se shodným počátečním písmenem ("Smlouva" - "Smlouva"),
-  zatímco žluté podtržení znamená, že termín je definován s rozdílným počátečním systémem
-  ("Smlouva" - "smlouva").
-
 - **Rychlý přístup:** Výběrem termínu se v postranním panelu otevře příslušná karta s
   jeho definicí. Kdekoliv se v dokumentu nacházíte, můžete se k původnímu umístění
   definice dostat dvojitým kliknutím na ikonu "rozděleného okna" (viz video níže).
@@ -35,7 +29,6 @@ v MS Wordu.
 
 2. Chcete-li zobrazit definici:
 
-- Najeďte myší na podtržený termín přímo v textu pro rychlý náhled definice.
 - Označte myší termín v textu, čímž spustíte postranní panel.
 - Scrollujte postranním panelem a vyberte termín ze seznamu "karet" s definovanými
   termíny.
