@@ -1,0 +1,51 @@
+---
+sidebar_position: 2
+---
+
+# Installation
+
+## Prerequisites
+
+- Download “manifest” file ([Click here to download the manifest file](https://drive.google.com/file/d/1JgzdldbRdjwvAh9Y9rVPL3QN9A8SzAuL/view?usp=drive_link))
+- Have Microsoft Office 365 account
+- Have one of these roles: 
+    - Global Administrator
+    - Azure Application Administrator
+    - Exchange Administrator
+- Management and deployment via Integrated Apps require that the users are using one of these:
+    - Microsoft 365 Business licenses (Business Basic, Business Standard, Business Premium)
+    - Office 365 Enterprise licenses (E1/E3/E5/F3)
+    - Microsoft 365 Enterprise licenses (E3/E5/F3)
+
+## Setup
+- Go To Microsoft Office 365 and on the left sidebar click Admin icon.<br/>
+
+![Step1](../static/img/installation_steps/step1.png)<br/><br/>
+- Go to Settings > Integrated apps.<br/>
+
+![Step2](../static/img/installation_steps/step2.png)<br/><br/>
+- Click on Upload custom apps.<br/>
+
+![Step3](../static/img/installation_steps/step3.png)<br/><br/>
+- Select App type = Office Add-in<br/>
+
+![Step4](../static/img/installation_steps/step4.png)<br/><br/>
+- Choose Upload manifest file from device, use the file provided above<br/>
+
+![Step5](../static/img/installation_steps/step5.png)<br/><br/>
+- Click Next
+- Add users:
+    - Keep the toggle for test deployment to No
+    - Assign which users should be able to see and use the Add-in<br/>
+
+![Step6](../static/img/installation_steps/step6.png)<br/><br/>
+- Click Next
+- Accept permission request by clicking Next
+- Click Finish deployment
+- You should be able to see the Add-in in MS Word among My Add Ins:<br/>
+
+![Step7](../static/img/installation_steps/finished.png)<br/><br/>
+:::warning You don't see the plugin yet?
+Try refreshing the dialog:
+![StepOptional](../static/img/installation_steps/step7.png)<br/><br/>
+:::
