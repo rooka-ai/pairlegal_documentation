@@ -19,7 +19,9 @@ updates:
 
   # Maintain dependencies for npm
   - package-ecosystem: "npm"
-    directory: "/"
+    directories:
+      - "/"
+      - "/pairlegal-documentation"
     schedule:
       interval: "weekly"
       day: "saturday"
