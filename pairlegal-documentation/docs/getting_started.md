@@ -17,5 +17,7 @@ decisions.
 
 ## Download
 
-The plugin is available for both Windows and Mac platforms. For information on
-installation and use contact us at [info@singledraft.ai](mailto:info@singledraft.ai)
+The plugin is available for both Windows and Mac platforms.
+[Click here to download the manifest file](https://drive.google.com/file/d/1JgzdldbRdjwvAh9Y9rVPL3QN9A8SzAuL/view?usp=drive_link).
+
+For installation steps follow this [link](../installation).

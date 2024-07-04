@@ -5,7 +5,7 @@ Run test server by
     npm install
     npm run start
 ```
-The languages must be tested seperately, e.g.:
+The languages must be tested separately, e.g.:
 ```
 npm run start -- --locale de
 ```
