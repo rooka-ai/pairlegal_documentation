@@ -3,7 +3,7 @@ sidebar_position: 1
 ---
 # Getting started
 
-Thank you for your interest in SingleDraft, the AI contract drafting assistant
+Thank you for your interest in SingleDraft, the AI legal writing assistant
 integrated into MS Word. Our solution provides a layer of insights over a contract
 opened in MS Word:
 
