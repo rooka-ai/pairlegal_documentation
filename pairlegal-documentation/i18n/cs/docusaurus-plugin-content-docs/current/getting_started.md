@@ -15,4 +15,4 @@ ponechává vám neustálou kontrolu nad dokumentem.
 
 Plugin je dostupný pro platformy Windows i Mac. [Klikněte zde pro stažení potřebného souboru](https://drive.google.com/file/d/1JgzdldbRdjwvAh9Y9rVPL3QN9A8SzAuL/view?usp=drive_link).
 
-Postup samotné instalace je popsáno na [tomto odkaze](../installation).
+Postup samotné instalace je popsán na [tomto odkaze](../installation).
