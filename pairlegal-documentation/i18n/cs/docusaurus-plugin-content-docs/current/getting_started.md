@@ -13,6 +13,6 @@ ponechává vám neustálou kontrolu nad dokumentem.
 
 ## Stáhnout
 
-Plugin je dostupný pro platformy Windows i Mac. [Klikněte zde pro stažení potřebného souboru](https://drive.google.com/file/d/1JgzdldbRdjwvAh9Y9rVPL3QN9A8SzAuL/view?usp=drive_link).
+Plugin je dostupný pro operační systémy Windows i Mac. [Klikněte zde pro stažení potřebného souboru](https://drive.google.com/file/d/1JgzdldbRdjwvAh9Y9rVPL3QN9A8SzAuL/view?usp=drive_link).
 
 Postup samotné instalace je popsán na [tomto odkaze](../installation).
