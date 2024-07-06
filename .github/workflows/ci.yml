@@ -1,0 +1,25 @@
+name: CI Checks
+
+on:
+  push:
+    branches-ignore:
+      - main
+  workflow_dispatch:
+
+concurrency:
+  group: ${{ github.workflow }}-${{ github.ref }}
+  cancel-in-progress: true
+
+jobs:
+  ci-checks:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - name: Checkout main repository
+        uses: actions/checkout@v4
+
+      - name: Test build
+        run: |
+          cd pairlegal-documentation
+          npm ci
+          npm run build
