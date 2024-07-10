@@ -1,0 +1,35 @@
+---
+sidebar_position: 3
+---
+
+# Authentication
+
+To use the plugin securely, users must authenticate within the plugin.
+There are two methods of authentication:
+
+## Email-Password
+
+This authentication flow requires the user to register with an email and password.
+
+### Steps
+
+1. Click the `Register` button on the plugin login page.
+2. Fill in the email and password fields.
+3. A verification email will be sent to the user's email (check the spam folder if necessary).
+4. In the verification email, click the verification button.
+5. Once verified, the user can proceed to log in.
+6. Use the same email and password to log in.
+
+## Azure AD
+
+For users who prefer to use enterprise Azure AD authentication.
+
+### Steps
+
+1. Click the `Login` button on the plugin login page.
+2. Click the `Microsoft Azure AD` button.
+3. Log in with the Azure AD account.
+4. A prompt to approve the `auth0` application will appear.
+5. Approve it, or ask your IT admin to approve it, depending on the user's Azure AD settings.
+6. Once approved, the login process is complete.
+7. For subsequent logins, no further approval is needed.
