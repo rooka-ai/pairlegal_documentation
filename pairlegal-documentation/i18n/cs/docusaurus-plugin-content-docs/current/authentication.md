@@ -16,7 +16,7 @@ Tento proces vyžaduje, aby se uživatel zaregistroval pomocí e-mailu a hesla.
 1. Klikněte na tlačítko `Registrovat` na přihlašovací stránce pluginu.
 2. Vyplňte pole pro e-mail a heslo.
 3. Na e-mail uživatele bude odeslán ověřovací e-mail (pokud je to nutné, zkontrolujte složku se spamem).
-4. V ověřovacím e-mailu klikněte na ověřovací tlačítko.
+4. V zaslaném e-mailu klikněte na ověřovací tlačítko.
 5. Po ověření se uživatel může přihlásit.
 6. Přihlaste se pomocí stejného e-mailu a hesla.
 
