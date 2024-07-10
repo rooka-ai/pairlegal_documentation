@@ -2,14 +2,14 @@
 sidebar_position: 3
 ---
 
-# Autentizace
+# Ověření identity
 
-Aby bylo možné plugin bezpečně používat, musí se uživatelé autentizovat v rámci pluginu.
-Existují dvě metody autentizace:
+Aby bylo možné plugin bezpečně používat, musí uživatel ověřit svojí identitu
+v rámci pluginu. Existují dvě metody ověřování:
 
 ## Email-Heslo
 
-Tento autentizační proces vyžaduje, aby se uživatel zaregistroval pomocí e-mailu a hesla.
+Tento proces vyžaduje, aby se uživatel zaregistroval pomocí e-mailu a hesla.
 
 ### Kroky
 
@@ -22,7 +22,7 @@ Tento autentizační proces vyžaduje, aby se uživatel zaregistroval pomocí e-
 
 ## Azure AD
 
-Pro uživatele, kteří preferují použití Azure AD pro autentizaci.
+Pro uživatele, kteří preferují použití Azure AD pro ověření identity.
 
 ### Kroky
 
