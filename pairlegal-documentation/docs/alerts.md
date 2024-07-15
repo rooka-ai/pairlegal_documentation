@@ -6,11 +6,8 @@ sidebar_position: 6
 
 ## Overview
 
-Alerts are proactive notifications that assist users in maintaining the integrity and
-consistency of legal documents. They provide real-time feedback and warnings about
-potential issues that could affect the consistency or clarity of the document.
-Each alert is designed to act as a safeguard, ensuring that the legal documents you
-prepare are free from common errors and inconsistencies.
+The plugin displays a number of specific alerts for legal writing. These alerts include
+include the types of alerts listed below.
 
 ### Definition-related alerts
 
@@ -24,19 +21,11 @@ This alert verifies numerical consistency throughout the document. It activates 
 there are discrepancies between figures in numerical and written form, or if the same
 number is repeated in a manner that suggests a potential error.
 
-### 'House style'
-
-The 'House Style' alert ensures that the document adheres to the specific stylistic
-standards of your organization. It flags deviations from predefined style guidelines,
-such as the way in which dates are written, whether "and / or" should be used and so on.
-We offer a range of these alerts that can be turned on or off, but we can also create
-custom alerts to suit your organization's needs.
-
 ### Holiday alert
 
 The Holiday Alert checks the dates mentioned in the document against a database of
-public holidays. It notifies the user if a date coincides with a holiday, which could
-affect deadlines or the execution of the contract.
+public holidays and weekends . It notifies the user if a date coincides with a (future)
+holiday, which could affect deadlines or the execution of the contract.
 
 ### Template alert
 
@@ -54,12 +43,16 @@ potential misreadings of the contract's terms.
 The standard number check verifies the format and structure of the numbers in the document.
 We check the validity of birth numbers, bank account numbers (including IBAN format) and others.
 
-### Completeness of company names
+### Correctness of company names
 
 For each company listed in the document, the plugin checks whether the company name is
-listed in the vicinity of the ID number.
+mentioned close to the ID number.
 
 ### Checking the existence and type of the parcel
 
 If a parcel is listed in the document, the plugin checks if the parcel is in the
 (Czech) land register and whether the correct parcel type is specified.
+
+### Cross-reference checking
+
+With respect to internal links to a certain part of the document, the plugin checks whether this link is created using Word's "Cross-reference" feature. Without using this feature, it may occur when if the document is edited and renumbered, a mismatch between the reference and the target location takes place.

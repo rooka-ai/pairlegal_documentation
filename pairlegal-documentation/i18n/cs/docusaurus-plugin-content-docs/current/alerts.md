@@ -4,7 +4,8 @@ sidebar_position: 6
 
 # Upozornění
 
-Upozornění pomáhají udržet dokument jednotný a bez chyb.
+Plugin zobrazuje řadu specifických upozornění pro právní psaní. Mezi tato upozornění
+patří níže uvedené typy výstrah.
 
 ### Výstrahy týkající se definic
 
@@ -17,18 +18,11 @@ dokumentu použity, se pak na kartě definic zobrazí příslušné upozornění
 Toto upozornění ověřuje, zda číslo určené číslovkami a textem je vzájemně v souladu
 (př. "1.000 (slovy: dva tisíce korun)".
 
-### Preferovaný styl psaní
-
-Plugin nabízí řadu upozornění na odchylky od předem definovaných stylistických zásad,
-například na způsob psaní dat, na to, zda se má používat obrat "a / nebo" apod.
-Nabízíme řadu těchto upozornění, která lze jednotlivě zapnout, ale můžeme také
-vytvořit upozornění na míru podle vašich potřeb.
-
 ### Upozornění na dny volna
 
 Upozornění na svátky kontroluje data uvedená v dokumentu podle databáze státních
-svátků a víkendů. Upozornění se zobrazí, pokud se datum v textu shoduje se dnem volna
-v kterékoliv se zemí, která je uvedena v dokumentu.
+svátků a víkendů. Upozornění se zobrazí, pokud se (budoucí) datum v textu shoduje se
+dnem volna ve kterékoliv ze zemí, která je uvedena v dokumentu.
 
 ### Upozornění na doplnění šablony
 
@@ -47,10 +41,16 @@ Kontrolujeme validitu rodných čísel, čísel bankovních účtů (vč. formá
 
 ### Kontrola úplnosti názvů společnosti
 
-Pro každou společnost uvedenou v dokumentu plugin kontroluje, zda je v okolí IČ uveden
-i příslušný název společnosti.
+Pro každou společnost uvedenou v dokumentu plugin kontroluje, zda je v okolí IČ přesně
+uveden i příslušný název společnosti.
 
 ### Kontrola existence a typu parcely
 
 Pokud je v dokumentu uvedena parcela, plugin ověří, zda je parcela v katastru nemovitostí
 a zda je uveden správný typ parcely.
+
+### Kontrola křížových odkazů
+
+Vůči interním odkazům na určité části dokumentu plugin kontroluje, zda je tento odkaz
+psán s využitím funkce Wordu "Cross-reference". Bez využití této funkce může dojít, při
+změně číslování dokumentu, k nesouladu mezi odkazem a cílovým místem.

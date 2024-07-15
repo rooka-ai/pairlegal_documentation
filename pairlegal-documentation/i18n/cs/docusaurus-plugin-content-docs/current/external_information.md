@@ -16,23 +16,21 @@ vybraných jurisdikcích.
 
 V současné době podporujeme informace o společnostech v 🇨🇭,🇨🇿, 🇸🇰, 🇭🇷.
 
-<iframe width="100%" height="315" src="https://www.youtube.com/embed/DnQzHK9J6p8?si=7Jv47m4wC2roZeDo" title="Přehrávač videa YouTube" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>.
-
 ## Katastr nemovitostí
 
 Ohledně parcel zmíněných v textu zobrazujeme dostupné informace z katastru nemovitostí,
-kontrolujeme jejich existence a správný typ parcely.
+kontrolujeme jejich existenci a správný typ parcely v textu.
 
 ## Účinné znění zákonů
-
-:::warning Již brzy
-Již brzy pro zákony v 🇨🇿.
-:::
 
 Tato funkce propojuje zmínky o zákonných ustanoveních s jejich účinným zněním.
 Uživatelé tak mají přístup k přesnému znění zákonů, na které se v dokumentech odkazuje.
 
 ## Judikatura a citace
+
+:::warning Již brzy
+Již brzy pro 🇨🇿 soudní rozhodnutí.
+:::
 
 Podobně jako zákonné informace tato funkce propojuje zmínky o judikatuře s odkazem na
 úplné znění, které je dostupné po kliknutí na odkaz.

@@ -15,20 +15,21 @@ When a company name is mentioned within a document, the feature cross-references
 mention with data from Companies House and individual credit score databases in selected
 jurisdictions.
 
-Currently supports 🇨🇭,🇨🇿, 🇸🇰, 🇭🇷.
-
-<iframe width="100%" height="315" src="https://www.youtube.com/embed/DnQzHK9J6p8?si=7Jv47m4wC2roZeDo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+Supported in 🇨🇭,🇨🇿, 🇸🇰, 🇭🇷.
 
 ## Statutory information
-
-:::warning Coming soon
-Coming soon to selected jurisdictions. Let us know if you would like to see this feature
-supported for you.
-:::
 
 This feature links mentions of statutory provisions directly to their corresponding
 texts. Users are able to access the exact wording of laws referenced within their
 documents.
+
+Supported in 🇨🇿.
+
+## Land Registry
+
+For the parcels mentioned in the text, we display the available information from the Land Registry, checking their existence and the correct type of parcel in the text.
+
+Supported in 🇨🇿.
 
 ## Case-law & citations
 
