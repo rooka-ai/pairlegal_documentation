@@ -3,12 +3,7 @@ sidebar_position: 8
 ---
 # AI
 
-Nabízeme možnosti přizpůsobení AI podle Vašich potřeb. Kromě ukládání vlastních
-akcí ("promptů") umožňujeme také nahrání vlastního API klíče a volbu různých
-poskytovatelů velkých jazykových modelů.
-
-Vedle integrace velkých jazykových modelů (jako jsou modely společnosti OpenAI), je
-také dostupná integrace překladače DeepL.
+Nabízeme možnosti přizpůsobení AI podle Vašich potřeb.
 
 ## Způsoby využití umělé inteligence
 

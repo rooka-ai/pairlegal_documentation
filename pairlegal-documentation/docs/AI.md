@@ -4,12 +4,9 @@ sidebar_position: 8
 
 # AI
 
-We offer options to customize the AI according to your needs. In addition to storing your own
-actions ("prompts"), we also allow you to upload your own API key and select different
-large language model providers.
+We offer options to customize the AI according to your needs.
 
-In addition to the integration of large language models (such as OpenAI's models), the
-integration of the DeepL translator is also available.
+In addition to the integration of large language models (such as OpenAI's models).
 
 ## Flows
 

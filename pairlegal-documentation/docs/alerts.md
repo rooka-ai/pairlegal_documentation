@@ -55,4 +55,7 @@ If a parcel is listed in the document, the plugin checks if the parcel is in the
 
 ### Cross-reference checking
 
-With respect to internal links to a certain part of the document, the plugin checks whether this link is created using Word's "Cross-reference" feature. Without using this feature, it may occur when if the document is edited and renumbered, a mismatch between the reference and the target location takes place.
+With respect to internal links to a certain part of the document, the plugin checks
+whether this link is created using Word's "Cross-reference" feature. Without using this
+feature, it may occur when if the document is edited and renumbered, a mismatch between
+the reference and the target location takes place.

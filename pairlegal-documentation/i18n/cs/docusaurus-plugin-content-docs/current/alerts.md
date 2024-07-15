@@ -20,7 +20,7 @@ Toto upozornění ověřuje, zda číslo určené číslovkami a textem je vzáj
 
 ### Upozornění na dny volna
 
-Upozornění na svátky kontroluje data uvedená v dokumentu podle databáze státních
+Upozornění na svátky kontroluje data uvedená v dokumentu oproti databázi státních
 svátků a víkendů. Upozornění se zobrazí, pokud se (budoucí) datum v textu shoduje se
 dnem volna ve kterékoliv ze zemí, která je uvedena v dokumentu.
 
