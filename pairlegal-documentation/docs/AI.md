@@ -6,8 +6,6 @@ sidebar_position: 8
 
 We offer options to customize the AI according to your needs.
 
-In addition to the integration of large language models (such as OpenAI's models).
-
 ## Flows
 
 ### Chat
