@@ -4,11 +4,23 @@ sidebar_position: 8
 
 # AI
 
-Tap into the latest innovations in the field of generative AI right inside MS Word.
-Choose your preferred model, turn on an optional two-step anonymization process and run
-any of the available flows.
+We offer options to customize the AI according to your needs.
 
 ## Flows
+
+### Chat
+
+A document can be uploaded within the chat, which the user then asks questions about.
+Similarly, it is possible to use a general chat, without involving an open document.
+The answers, which are based on the document in question, are provided with citations that allow
+for an easy checking of parts of the answer against the source text.
+Individual conversations are displayed in the plugin as threads.
+
+### 'FastTrack'
+
+For frequent, repetitive actions, you can also use the option to use AI directly from
+the opening screen. Several preset actions are offered by default. The answers are, in
+addition to the opening screen, also displayed in a separate thread in the Chat tab.
 
 ### Adaptive replace
 
@@ -16,17 +28,6 @@ Swap pairs of terms (e.g., "Company" –> "Buyers") over a document in a
 contextually-aware way. After selecting the pair or pairs, the plugin returns a list of
 suggested replacements, which can be individually accepted or rejected.
 
-### QA
+### Editing selected text
 
-The QA (Question and Answer) functionality allows users to ask natural language
-questions about the legal document they are working on. The AI analyzes the text and
-returns answers together with cited sources.
-
-### Playbook
-
-:::warning Coming soon
-:::
-The Playbook feature is an intelligent guideline enforcement tool that cross-references
-the content of the document against a set of predefined rules and clauses that
-constitute your organization's standard practices, ensuring that all drafted contracts
-are in line with your company's protocols.
+When selecting text in a file, AI can be used to suggest different variations of the text, including translation into another language.

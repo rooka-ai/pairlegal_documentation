@@ -10,8 +10,6 @@ Tracking of **definitions** is designed to enhance contract review by providing 
 to definitions and terms previously defined within the opened legal document. This
 feature saves you from having to search for definitions manually.
 
-<iframe width="100%" height="315" src="https://www.youtube.com/embed/qa7d2C30m_o?si=6NrwdKgu5lpNBrD-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-
 ## Features
 
 - **Quick Access:** Selecting a term opens a dedicated card in the sidebar with its
@@ -38,7 +36,7 @@ feature saves you from having to search for definitions manually.
 
 2. To view a term's definition, perform one of the following:
 
-- Select a term in the text to trigger the sidebar.
+- Select a term in the text to trigger the sidebar; or
 - Navigate through the sidebar to select a term from a list of "cards" with defined
   terms; you can also use the search bar to find a specific term.
 
