@@ -29,7 +29,7 @@ Pro uživatele, kteří preferují použití Azure AD pro ověření identity.
 1. Klikněte na tlačítko `Přihlásit` na přihlašovací stránce pluginu.
 2. Klikněte na tlačítko `Microsoft Azure AD`.
 3. Přihlaste se pomocí účtu Azure AD.
-4. Objeví se výzva k schválení aplikace `auth0`.
+4. Objeví se výzva k schválení aplikace `Single Draft`.
 5. Schvalte ji nebo požádejte vašeho IT administrátora o schválení - záleží na nastavení Azure AD uživatele.
 6. Po schválení je přihlašovací proces dokončen.
 7. Při příštím přihlášení již nebude potřeba žádné další schválení.

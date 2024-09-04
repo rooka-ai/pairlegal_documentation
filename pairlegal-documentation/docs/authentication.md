@@ -29,7 +29,7 @@ For users who prefer to use enterprise Azure AD authentication.
 1. Click the `Login` button on the plugin login page.
 2. Click the `Microsoft Azure AD` button.
 3. Log in with the Azure AD account.
-4. A prompt to approve the `auth0` application will appear.
+4. A prompt to approve the `Single Draft` application will appear.
 5. Approve it, or ask your IT admin to approve it, depending on the user's Azure AD settings.
 6. Once approved, the login process is complete.
 7. For subsequent logins, no further approval is needed.
