@@ -15,7 +15,10 @@ When a company name is mentioned within a document, the feature cross-references
 mention with data from Companies House and individual credit score databases in selected
 jurisdictions.
 
-Supported in 🇨🇭,🇨🇿, 🇸🇰, 🇭🇷.
+We also allow you to search for a company in the Companies House by its name or ID
+number, via the 'Registers' tab.
+
+Supported for companies in 🇨🇭,🇨🇿, 🇸🇰, 🇭🇷.
 
 ## Statutory information
 
