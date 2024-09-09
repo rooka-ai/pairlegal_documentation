@@ -4,39 +4,37 @@ sidebar_position: 7
 
 # Externe Informationen
 
-Das Modul für externe Informationen bereichert Ihre Rechtsdokumente, indem es
-automatisch externe Daten aus verschiedenen Quellen einbindet. Dies stellt sicher, dass
-Verweise auf Unternehmen, gesetzliche Bestimmungen und Rechtsprechung in Ihren
-Dokumenten korrekt und aktuell sind.
+Die Funktion der externen Informationen reichert Ihre Dokumente durch die Integration
+externer Daten aus verschiedenen öffentlichen Quellen an. Dadurch werden Verweise auf
+Unternehmen, Gesetzesbestimmungen und Rechtsprechung in Ihren Dokumenten mit
+öffentlichen Registern verknüpft.
 
 ## Unternehmensinformationen
 
-Wenn in einem Dokument ein Unternehmensname erwähnt wird, verknüpft die Funktion diese
-Erwähnung mit Daten aus dem Unternehmensregister und individuellen
-Kredit-Score-Datenbanken in ausgewählten Ländern.
+Wenn in einem Dokument ein Unternehmensname erwähnt wird, vergleicht das Plugin diese
+Erwähnung mit Daten aus dem Handelsregister und einzelnen Kreditbewertungsdatenbanken
+in ausgewählten Jurisdiktionen. Gleichzeitig ermöglichen wir die Suche nach einem
+Unternehmen im Handelsregister anhand seines Namens oder seiner Identifikationsnummer
+über die Registerkarte 'Register'.
 
-Derzeit unterstützt: 🇨🇭, 🇨🇿, 🇸🇰, 🇭🇷.
+Derzeit unterstützen wir Unternehmensinformationen in 🇨🇭, 🇨🇿, 🇸🇰 und 🇭🇷.
 
-<iframe width="100%" height="315" src="https://www.youtube.com/embed/DnQzHK9J6p8?si=7Jv47m4wC2roZeDo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+## Grundbuch
 
-## Gesetzliche Informationen
+Für im Text erwähnte Grundstücke zeigen wir verfügbare Informationen aus dem Grundbuch
+an und überprüfen deren Existenz sowie die Angabe des korrekten Grundstückstyps im Text.
 
-:::warning Kommt bald
-Kommt bald in ausgewählten Ländern. Lassen Sie es uns wissen, wenn Sie möchten, dass
-diese Funktion für Sie unterstützt wird.
-:::
+## Geltende Gesetzesfassung
 
-Diese Funktion verknüpft Erwähnungen von Gesetzen direkt mit ihren entsprechenden
-Texten. Benutzer können auf den genauen Wortlaut der in ihren Dokumenten verwendeten
-Gesetze zugreifen, was die rechtliche Genauigkeit und Compliance gewährleistet.
+Diese Funktion verknüpft Erwähnungen von Gesetzesbestimmungen mit ihrer geltenden
+Fassung. Dazu fügen wir Hinweise auf bereits nicht mehr gültige Bestimmungen hinzu.
 
 ## Rechtsprechung & Zitate
 
-:::warning Kommt bald
-Kommt bald in ausgewählten Ländern. Lassen Sie es uns wissen, wenn Sie möchten, dass
-diese Funktion für Sie unterstützt wird.
+:::warning Demnächst
+Demnächst für 🇨🇿 Gerichtsentscheidungen.
 :::
 
-Ähnlich wie bei den gesetzlichen Informationen, verknüpft diese Funktion Erwähnungen
-von Rechtsprechung mit den relevanten rechtlichen Präzedenzfällen und Urteilen; deren
-vollständiger Text ist mit einem einzigen Klick zugänglich.
+Ähnlich wie bei den gesetzlichen Informationen verknüpft diese Funktion Erwähnungen von
+Rechtsprechung mit einem Link zum vollständigen Wortlaut, der durch Klicken auf den
+Link verfügbar ist.
