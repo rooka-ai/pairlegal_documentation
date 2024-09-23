@@ -1,0 +1,84 @@
+import Image from "@theme/IdealImage";
+import moreaddins from "../../static/img/installation_steps/moreaddins.png";
+import home from "../../static/img/installation_steps/home.png";
+import step6 from "../../static/img/installation_steps/step6.png";
+import step5 from "../../static/img/installation_steps/step5.png";
+import step4 from "../../static/img/installation_steps/step4.png";
+import step3 from "../../static/img/installation_steps/step3.png";
+import step2 from "../../static/img/installation_steps/step2.png";
+import step1 from "../../static/img/installation_steps/step1.png";
+import refresh from "../../static/img/installation_steps/refresh.png";
+
+# Installation with Office 365
+
+This page follows the official
+[Microsoft installation guide](https://learn.microsoft.com/en-us/microsoft-365/admin/manage/office-addins?view=o365-worldwide#upload-custom-office-add-ins-in-your-organization).
+
+### Prerequisites
+
+- Download “manifest” file ([Click here to contact us to get the file](mailto:info@singledraft.ai))
+- Have Microsoft Office 365 account
+- Have one of these roles:
+  - Global Administrator
+  - Azure Application Administrator
+  - Exchange Administrator
+- Management and deployment via Integrated Apps require that the users are using one of these:
+  - Microsoft 365 Business licenses (Business Basic, Business Standard, Business Premium)
+  - Office 365 Enterprise licenses (E1/E3/E5/F3)
+  - Microsoft 365 Enterprise licenses (E3/E5/F3)
+- Full requirements in detail [here](https://learn.microsoft.com/en-us/microsoft-365/admin/manage/centralized-deployment-of-add-ins?view=o365-worldwide)
+
+### Setup
+
+- **Go To Microsoft Office 365** - On the left sidebar click Admin icon.<br/>
+
+  <Image img={step1} style={{ width: 200 }} />
+
+- **Go to Settings > Integrated apps.**<br/>
+
+  <Image img={step2} style={{ width: 200 }} />
+
+- **Click on Upload custom apps.**<br/>
+
+  <Image img={step3} style={{ width: 300 }} />
+
+- **Select App type = Office Add-in**<br/>
+
+  <Image img={step4} style={{ width: 300 }} />
+
+- **Upload manifest XML** - Choose Upload manifest file from device, use the file provided above<br/>
+
+  <Image img={step5} style={{ width: 400 }} />
+
+- **Click Next and Add users**: - Keep the toggle for test deployment to No - Assign which users should be able to see and use the Add-in<br/>
+
+  <Image img={step6} style={{ width: 400 }} />
+
+- **Finish deployment**
+
+  - Click Next
+  - Accept permission request by clicking Next
+  - Click Finish deployment
+
+- **Go to Home tab in MS Word and click on Add-ins**
+:::tip Sign in to MS Word
+Make sure to be signed in the MS Word with the account that is among the approved
+accounts that were assigned in previous step.
+:::
+
+  <Image img={home} />
+
+- **Click on More Add-in**
+
+  <Image img={moreaddins} style={{ width: 200 }} />
+
+- **The Add-in should be visible among other Admin Managed Add-ins**
+  :::tip Do not see the plugin at this point?
+  Try refreshing the dialog
+  :::
+  <Image img={refresh} style={{ width: 600 }} />
+
+### Troubleshooting
+
+In case you run into an issue during installation please refer to this
+[Troubleshooting guide](troubleshooting.mdx).

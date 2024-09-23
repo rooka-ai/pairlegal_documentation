@@ -1,0 +1,85 @@
+import Image from "@theme/IdealImage";
+import moreaddins from "../../../../../static/img/installation_steps/moreaddins.png";
+import home from "../../../../../static/img/installation_steps/home.png";
+import step6 from "../../../../../static/img/installation_steps/step6.png";
+import step5 from "../../../../../static/img/installation_steps/step5.png";
+import step4 from "../../../../../static/img/installation_steps/step4.png";
+import step3 from "../../../../../static/img/installation_steps/step3.png";
+import step2 from "../../../../../static/img/installation_steps/step2.png";
+import step1 from "../../../../../static/img/installation_steps/step1.png";
+import refresh from "../../../../../static/img/installation_steps/refresh.png";
+
+# Installation mit Office 365
+
+Diese Seite basiert auf dem
+[offiziellen Installationsleitfaden von Microsoft](https://learn.microsoft.com/en-us/microsoft-365/admin/manage/office-addins?view=o365-worldwide#upload-custom-office-add-ins-in-your-organization).
+
+### Anforderungen
+
+- Laden Sie die sogenannte „Manifest“-Datei herunter
+([Klicken Sie hier, um das Manifest herunterzuladen](mailto:info@singledraft.ai))
+- Ein Microsoft Office 365-Konto
+- Eine der folgenden Rollen:
+  - Globaler Administrator
+  - Azure-Anwendungsadministrator
+  - Exchange-Administrator
+- Um Verwaltung und Bereitstellung mit integrierten Anwendungen zu ermöglichen,
+müssen Benutzer eine der folgenden Lizenzen haben:
+  - Microsoft 365 Business-Lizenz (Business Basic, Business Standard, Business Premium)
+  - Office 365 Enterprise-Lizenz (E1/E3/E5/F3)
+  - Microsoft 365 Enterprise-Lizenz (E3/E5/F3)
+- Die vollständigen Anforderungen finden Sie [hier](https://learn.microsoft.com/en-us/microsoft-365/admin/manage/centralized-deployment-of-add-ins?view=o365-worldwide).
+
+### Einrichtung
+
+- **Gehen Sie zu Microsoft Office 365** - Klicken Sie auf der linken Seitenleiste auf das Symbol „Administrator“. <br/>
+
+  <Image img={step1} style={{ width: 200 }} />
+
+- **Gehen Sie zu Einstellungen > Integrierte Anwendungen.** <br/>
+
+  <Image img={step2} style={{ width: 200 }} />
+
+- **Klicken Sie auf „Eigene Anwendungen hochladen“.** <br/>
+
+  <Image img={step3} style={{ width: 300 }} />
+
+- **Wählen Sie Anwendungstyp = Office-Add-In** <br/>
+
+  <Image img={step4} style={{ width: 300 }} />
+
+- **Manifest-XML hochladen** – Wählen Sie „Manifest-Datei vom Gerät hochladen“,
+verwenden Sie die oben genannte Datei. <br/>
+
+  <Image img={step5} style={{ width: 400 }} />
+
+- **Klicken Sie auf Weiter und fügen Sie Benutzer hinzu**: - Lassen Sie den Schalter für
+die Testbereitstellung auf „Nein“ - Wählen Sie aus, welche Benutzer das Add-In sehen
+und verwenden sollen <br/>
+
+  <Image img={step6} style={{ width: 400 }} />
+
+- **Abschließen der Bereitstellung**
+
+  - Klicken Sie auf „Weiter“
+  - Bestätigen Sie die Berechtigungsanfrage, indem Sie auf „Weiter“ klicken
+  - Klicken Sie auf „Bereitstellung abschließen“
+
+- **Gehen Sie zur Registerkarte „Start“ in MS Word und klicken Sie auf „Add-Ins“**
+
+  <Image img={home} />
+
+- **Klicken Sie auf „Weitere Add-Ins“**
+
+  <Image img={moreaddins} style={{ width: 200 }} />
+
+- **Das Add-In sollte unter den von Administratoren verwalteten Add-Ins sichtbar sein**
+  Wenn das Add-In nicht in der Liste erscheint, versuchen Sie, das Dialogfenster zu
+  aktualisieren.
+  
+  <Image img={refresh} style={{ width: 600 }} />
+
+### Mögliche Probleme während der Installation
+
+Sollten während der Installation Probleme auftreten, besuchen Sie bitte diesen Link:
+[Fehlerbehebungsleitfaden](troubleshooting.mdx).
