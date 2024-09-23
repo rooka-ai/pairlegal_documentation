@@ -27,3 +27,12 @@ Translate text from one language to another using a variety of translation provi
 Save & paste commonly used signature blocks into the document. We offer several default
 templates to get you started, but you can also create your own and share them with
 your team.
+
+<iframe
+  width="100%"
+  height="315"
+  src="https://www.youtube.com/embed/Yf86Bkq489g"
+  title="YouTube video player"
+  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+  allowFullScreen
+/>

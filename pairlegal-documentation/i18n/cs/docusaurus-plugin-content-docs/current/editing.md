@@ -27,3 +27,12 @@ Přeložte text z jednoho jazyka do jiného pomocí různých poskytovatelů př
 Uložte a vložte často používané podpisové bloky do dokumentu. Nabízíme několik
 výchozích šablon, které vám pomohou začít, ale můžete také vytvářet vlastní a sdílet
 je se svým týmem.
+
+<iframe
+  width="100%"
+  height="315"
+  src="https://www.youtube.com/embed/Yf86Bkq489g"
+  title="YouTube video player"
+  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+  allowFullScreen
+/>

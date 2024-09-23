@@ -28,3 +28,12 @@ Varianten des Textes vorzuschlagen, wobei der Kontext der Datei berücksichtigt 
 Speichern und fügen Sie häufig verwendete Signaturblöcke in das Dokument ein. Wir
 bieten mehrere Standardvorlagen an, um Ihnen den Einstieg zu erleichtern. Sie können
 jedoch auch eigene erstellen und mit Ihrem Team teilen.
+
+<iframe
+  width="100%"
+  height="315"
+  src="https://www.youtube.com/embed/Yf86Bkq489g"
+  title="YouTube video player"
+  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+  allowFullScreen
+/>
