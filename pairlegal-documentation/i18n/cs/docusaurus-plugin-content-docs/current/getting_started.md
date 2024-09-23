@@ -11,8 +11,7 @@ poskytování návrhů vzorových ustanovení na základě interní databáze.
 SingleDraft je **postaven s respektem k vašemu řemeslu**,
 ponechává vám neustálou kontrolu nad dokumentem.
 
-## Stáhnout
+## Instalace
 
-Plugin je dostupný pro operační systémy Windows i Mac. [Klikněte zde pro stažení potřebného souboru](https://drive.google.com/file/d/1JgzdldbRdjwvAh9Y9rVPL3QN9A8SzAuL/view?usp=drive_link).
-
-Postup samotné instalace je popsán na [tomto odkaze](../installation).
+Plugin je dostupný pro operační systémy Windows i Mac. Postup instalace je popsán na
+[tomto odkaze](../installation).

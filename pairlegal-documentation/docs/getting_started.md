@@ -15,9 +15,7 @@ SingleDraft is **built with respect for your craft**, leaving you in control of 
 document at all times and providing you with the insights you need to make the best
 decisions.
 
-## Download
+## Install
 
-The plugin is available for both Windows and Mac platforms.
-[Click here to download the manifest file](https://drive.google.com/file/d/1JgzdldbRdjwvAh9Y9rVPL3QN9A8SzAuL/view?usp=drive_link).
-
-For installation steps follow this [link](../installation).
+The plugin is available for both Windows and Mac platforms. For installation steps
+follow this [link](../installation).
