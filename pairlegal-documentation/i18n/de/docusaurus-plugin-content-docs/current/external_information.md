@@ -28,13 +28,3 @@ an und überprüfen deren Existenz sowie die Angabe des korrekten Grundstücksty
 
 Diese Funktion verknüpft Erwähnungen von Gesetzesbestimmungen mit ihrer geltenden
 Fassung. Dazu fügen wir Hinweise auf bereits nicht mehr gültige Bestimmungen hinzu.
-
-## Rechtsprechung & Zitate
-
-:::warning Demnächst
-Demnächst für 🇨🇿 Gerichtsentscheidungen.
-:::
-
-Ähnlich wie bei den gesetzlichen Informationen verknüpft diese Funktion Erwähnungen von
-Rechtsprechung mit einem Link zum vollständigen Wortlaut, der durch Klicken auf den
-Link verfügbar ist.

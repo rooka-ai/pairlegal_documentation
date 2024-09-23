@@ -22,18 +22,9 @@ V současné době podporujeme informace o společnostech v 🇨🇭,🇨🇿, �
 ## Katastr nemovitostí
 
 Ohledně parcel zmíněných v textu zobrazujeme dostupné informace z katastru nemovitostí,
-kontrolujeme jejich existenci a uvedené správného typu parcely v textu.
+kontrolujeme jejich existenci a uvedení správného typu parcely v textu dokumentu.
 
-## Účinné znění zákonů
+## Znění zákonů
 
-Tato funkce propojuje zmínky o zákonných ustanoveních s jejich účinným zněním. K tomuto
-přidáváme upozornění na již neúčinná ustanovení.
-
-## Judikatura a citace
-
-:::warning Již brzy
-Již brzy pro 🇨🇿 soudní rozhodnutí.
-:::
-
-Podobně jako zákonné informace tato funkce propojuje zmínky o judikatuře s odkazem na
-úplné znění, které je dostupné po kliknutí na odkaz.
+Propojujeme též zmínky o zákonných ustanoveních s jejich účinným zněním. Nadto
+přidáváme upozornění na již neúčinné předpisy zmíněné v textu.
