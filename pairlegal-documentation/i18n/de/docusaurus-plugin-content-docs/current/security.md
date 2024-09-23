@@ -38,11 +38,7 @@ und zuverlässiger Dienste für die Rechtsbranche profitieren können. Wir verwe
 neueste Technologie, um Ihnen die bestmögliche Erfahrung zu bieten und gleichzeitig
 sicherzustellen, dass die Sicherheit auf bewährten und getesteten Lösungen basiert.
 
-## Wir werden Sie niemals nach Ihrem Passwort fragen.
+## Wir werden Sie niemals nach Ihrem Passwort fragen
 
 Wir werden Sie niemals auffordern, uns Ihr Passwort mitzuteilen.
 Wenn Sie Ihr Passwort vergessen haben, können Sie es zurücksetzen.
-
-## Individuelle Vereinbarung anfordern
-
-Wenn Ihr IT-Team eine individuelle Vereinbarung oder Dokumentation benötigt, nehmen Sie bitte Kontakt zu uns auf.

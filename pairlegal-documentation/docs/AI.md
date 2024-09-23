@@ -10,7 +10,7 @@ We offer options to customize the AI according to your needs. You can set your o
 provider of large language models, or set an overall tone and style of answers by
 selecting the appropriate system message. Find more in the Settings tab.
 
-## Chat
+### Chat
 
 A document can be uploaded within the chat, which the user then asks questions about.
 Similarly, it is possible to use a general chat, without involving an open document.

@@ -41,7 +41,3 @@ testovaných řešeních.
 
 Nikdy vás nebudeme žádat, abyste nám sdělili své heslo.
 Pokud své heslo zapomenete, můžete si jej obnovit.
-
-## Vyžádejte si smlouvu na míru
-
-Pokud váš tým IT potřebuje smlouvu nebo dokumentaci na míru, kontaktujte nás.

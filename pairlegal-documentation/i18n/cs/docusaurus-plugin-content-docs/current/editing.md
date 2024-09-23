@@ -8,7 +8,7 @@ Vyberte ustanovení dokumentu a zvolte z různých možností úprav.
 
 ## Chytré úryvky ('smart snippets')
 
-:::varování V aktivním vývoji
+:::warning Beta verze
 :::
 Prohledejte svou interní znalostní bázi pro relevantní klauzule a vložte je přímo
 do dokumentu.
