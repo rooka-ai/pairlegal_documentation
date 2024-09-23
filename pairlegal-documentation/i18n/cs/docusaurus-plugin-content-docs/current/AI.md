@@ -8,9 +8,7 @@ Nabízíme možnosti přizpůsobení AI podle vašich potřeb. Můžete si nasta
 vlastního poskytovatele velkých jazykových modelů, nebo nastavit celkový tón a styl
 odpovědí výběrem vhodné systémové zprávy. Více informací najdete v záložce Nastavení.
 
-## Způsoby využití umělé inteligence
-
-### Chat
+## Chat
 
 V rámci chatu lze nahrát dokument, vůči kterému následně uživatel pokládá dotazy.
 Stejně tak je možné využít obecného chatu, bez zapojení otevřeného dokumentu.
@@ -44,7 +42,7 @@ pro další úpravy.
   allowFullScreen
 />
 
-### Rychlé akce (FastTrack)
+## Rychlé akce (FastTrack)
 
 Pro časté, opakující se akce, lze využít také možnost napojení přímo z úvodní obrazovky
 pluginu. V základu je zde nabízeno několik přednastavených akcí. Odpovědi jsou vedle
@@ -59,15 +57,15 @@ pluginu. V základu je zde nabízeno několik přednastavených akcí. Odpovědi
   allowFullScreen
 />
 
-### Chytré nahrazení
+## Editace označeného textu
+
+Při označení textu ve smlouvě lze využít AI pro navrhnutí různých variant textu, včetně
+překladu do jiného jazyka. Více informací naleznete v záložce Editace.
+
+## Chytré nahrazení
 
 :::warning Již brzy
 :::
 Vyměňte dvojice výrazů (např. "Společnost" -> "Kupující") v dokumentu způsobem
 zohledňujícím jejich kontext. Po výběru dvojice nebo dvojic vrátí plugin seznam
 navrhovaných náhrad, které lze jednotlivě přijmout nebo odmítnout.
-
-### Editace označeného textu
-
-Při označení textu ve smlouvě lze využít AI pro navrhnutí různých variant textu, včetně
-překladu do jiného jazyka. Více informací naleznete v záložce Editace.

@@ -4,13 +4,11 @@ sidebar_position: 8
 
 # AI
 
-## Customization
-
 We offer options to customize the AI according to your needs. You can set your own
 provider of large language models, or set an overall tone and style of answers by
 selecting the appropriate system message. Find more in the Settings tab.
 
-### Chat
+## Chat
 
 A document can be uploaded within the chat, which the user then asks questions about.
 Similarly, it is possible to use a general chat, without involving an open document.
@@ -60,6 +58,12 @@ addition to the opening screen, also displayed in a separate thread in the Chat 
   allowFullScreen
 />
 
+## Editing selected text
+
+When selecting text in a file, AI can be used to suggest different variations of the
+text, taking into account the context of the file.
+See Editing tab for more information.
+
 ## Adaptive replace
 
 :::warning Coming soon
@@ -67,9 +71,3 @@ addition to the opening screen, also displayed in a separate thread in the Chat 
 Swap pairs of terms (e.g., "Company" –> "Buyers") over a document in a
 contextually-aware way. After selecting the pair or pairs, the plugin returns a list of
 suggested replacements, which can be individually accepted or rejected.
-
-## Editing selected text
-
-When selecting text in a file, AI can be used to suggest different variations of the
-text, taking into account the context of the file.
-See Editing tab for more information.

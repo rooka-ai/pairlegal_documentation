@@ -9,9 +9,7 @@ Ihren eigenen Anbieter für große Sprachmodelle einrichten oder den Ton und Sti
 Antworten durch die Auswahl einer passenden Systemnachricht festlegen. Weitere
 Informationen finden Sie im Reiter Einstellungen.
 
-## Anwendungsarten der künstlichen Intelligenz
-
-### Chat
+## Chat
 
 Im Chat können Sie ein Dokument hochladen, zu dem der Benutzer Fragen stellt.
 Es ist auch möglich, den allgemeinen Chat ohne ein geöffnetes Dokument zu nutzen.
@@ -28,7 +26,7 @@ Unterhaltungen werden im Plugin in Form von Threads angezeigt.
   allowFullScreen
 />
 
-### Chat-Kurzbefehle
+## Chat-Kurzbefehle
 
 Für häufig genutzte Aktionen können Sie einen einfachen Kurzbefehl erstellen,
 um diese einfach auszuführen. Der Kurzbefehl kann ausgewählt werden, indem
@@ -47,7 +45,7 @@ einzufügen.
   allowFullScreen
 />
 
-### Schnelle Aktionen (FastTrack)
+## Schnelle Aktionen (FastTrack)
 
 Für häufige, wiederkehrende Aktionen können Sie auch die Möglichkeit nutzen,
 direkt vom Startbildschirm des Plugins zuzugreifen. Es stehen einige
@@ -63,7 +61,13 @@ auch in einem separaten Thread im Chat-Tab angezeigt.
   allowFullScreen
 />
 
-### Intelligente Ersetzung
+### Bearbeitung von markiertem Text
+
+Wenn Sie Text in einem Vertrag markieren, können Sie KI verwenden, um verschiedene
+Textvarianten vorzuschlagen, einschließlich der Übersetzung in eine andere Sprache.
+Weitere Informationen finden Sie im Reiter Bearbeitung.
+
+## Intelligente Ersetzung
 
 :::warning Kommt bald
 :::
@@ -71,9 +75,3 @@ Ersetzen Sie Ausdruckspaare (z. B. "Gesellschaft" -> "Käufer") im Dokument auf 
 weise, die ihren Kontext berücksichtigt. Nach der Auswahl von Paaren gibt das
 Plugin eine Liste von Ersatzvorschlägen zurück, die einzeln angenommen oder
 abgelehnt werden können.
-
-### Bearbeitung von markiertem Text
-
-Wenn Sie Text in einem Vertrag markieren, können Sie KI verwenden, um verschiedene
-Textvarianten vorzuschlagen, einschließlich der Übersetzung in eine andere Sprache.
-Weitere Informationen finden Sie im Reiter Bearbeitung.
