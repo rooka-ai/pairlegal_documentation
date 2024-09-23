@@ -10,6 +10,15 @@ Sledování **definic** je navrženo tak, aby usnadnilo revizi smlouvy tím, že
 umožňuje přímou kontrolu definic a termínů definovaných v otevřeném dokumentu.
 Díky této funkci není nutné manuálně vyhledávát definice.
 
+<iframe
+  width="100%"
+  height="315"
+  src="https://youtube.com/embed/5TQV3Om7Ir0"
+  title="YouTube video player"
+  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+  allowFullScreen
+/>
+
 ## Jednotlivé funkce
 
 - **Rychlý přístup:** Výběrem termínu se v postranním panelu otevře příslušná karta s

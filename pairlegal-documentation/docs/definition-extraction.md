@@ -10,6 +10,15 @@ Tracking of **definitions** is designed to enhance contract review by providing 
 to definitions and terms previously defined within the opened legal document. This
 feature saves you from having to search for definitions manually.
 
+<iframe
+  width="100%"
+  height="315"
+  src="https://youtube.com/embed/5TQV3Om7Ir0"
+  title="YouTube video player"
+  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+  allowFullScreen
+/>
+
 ## Features
 
 - **Quick Access:** Selecting a term opens a dedicated card in the sidebar with its

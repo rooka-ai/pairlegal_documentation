@@ -1,61 +1,69 @@
 ---
-sidebar_position: 3
+sidebar_position: 5
 ---
 
-# Tracking von Definitionen
+# Definitionen-Tracking
 
 ## Übersicht
 
-Das Tracking von **Definitionen** ist darauf ausgelegt, den Prozess der Vertragsprüfung
-zu verbessern, indem es sofortigen Zugang zu Definitionen und Begriffen bietet, die
-zuvor im geöffneten Rechtsdokument definiert wurden. Diese Funktion erspart Ihnen die
-manuelle Suche nach Definitionen und Begriffen, indem Sie eine Split-Ansicht
-öffnen können.
+Das Tracking von **Definitionen** soll die Vertragsprüfung verbessern, indem es den
+Zugriff auf zuvor im geöffneten juristischen Dokument definierte Begriffe ermöglicht.
+Diese Funktion erspart Ihnen die manuelle Suche nach Definitionen.
 
-<iframe width="100%" height="315" src="https://www.youtube.com/embed/qa7d2C30m_o?si=6NrwdKgu5lpNBrD-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe
+  width="100%"
+  height="315"
+  src="https://youtube.com/embed/5TQV3Om7Ir0"
+  title="YouTube video player"
+  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+  allowFullScreen
+/>
 
 ## Funktionen
 
-- **Begriffs-Hervorhebung:** Begriffe, die anderswo im Vertrag definiert sind,
-werden unterstrichen, um sie leicht identifizieren zu können. Grüne Unterstreichungen
-zeigen an, dass der Begriff im aktuellen Dokument mit der gleichen Groß- und
-Kleinschreibung definiert ist ("Vertrag" – "Vertrag"), während gelbe Unterstreichungen
-anzeigen, dass der Begriff in einem nicht übereinstimmenden
-Fall definiert ist ("Vertrag" – "vertrag").
+- **Schneller Zugriff:** Das Auswählen eines Begriffs öffnet eine spezielle Karte in der
+  Seitenleiste mit der entsprechenden Definition. Unabhängig davon, wo Sie sich im Dokument
+  befinden, können Sie durch Klicken auf das "Split-Window"-Symbol schnell zur
+  Definitionsstelle gelangen (siehe Video unten).
 
-- **Schneller Zugriff:** Die Auswahl eines Begriffs öffnet eine spezielle Karte in der
-  Seitenleiste mit seiner Definition. Von jedem Punkt im Dokument aus können Sie schnell
-  auf den Definitionsstandort zugreifen, indem Sie auf das Symbol "geteiltes Fenster"
-  doppelklicken (siehe Video unten).
+- **Verschachteltes Begriffstracking:** Begriffe innerhalb einer Definition, die ebenfalls
+  im Vertrag definiert sind, werden ebenfalls getrackt und sind von jeder Definitionenkarte
+  aus zugänglich.
 
-- **Verfolgung von verschachtelten Begriffen**: Begriffe innerhalb einer Definition,
-  die ebenfalls im Vertrag definiert sind, werden verfolgt und sind weiterhin zugänglich.
+- **Benachrichtigungen:** Wir prüfen die Konsistenz definierter Begriffe und benachrichtigen
+  Sie über definierte Begriffe, die nicht verwendet werden, doppelte Definitionen oder
+  inkonsistente Verwendung von Begriffen im gesamten Dokument (z. B. wird ein Begriff
+  großgeschrieben definiert, aber später kleingeschrieben verwendet). Alle Benachrichtigungen
+  können einzeln ignoriert werden.
+
+- **Vergleichen:** Für ausgewählte Rechtsordnungen bieten wir eine Funktion, um die Definition
+  mit einem juristischen Thesaurus (wie z. B. Czech LegalVOC) zu vergleichen, um die
+  korrekte Verwendung von juristischen Begriffen sicherzustellen.
 
 ## Zugriff auf Definitionen
 
-1. Öffnen Sie das Vertragsdokument mit dem aktivierten Plugin. Definierte Begriffe
-   werden automatisch unterstrichen.
+1. Öffnen Sie das Dokument in MS Word und aktivieren Sie das Plugin, indem Sie auf das
+   entsprechende Symbol in der oberen Leiste klicken. Definierte Begriffe werden automatisch
+   erkannt und im Reiter "Karten" angezeigt.
 
-2. Um eine Definition anzuzeigen, führen Sie eine der folgenden Aktionen aus:
+2. Um die Definition eines Begriffs anzuzeigen, führen Sie eine der folgenden Aktionen aus:
 
-- Fahren Sie direkt im Text über den unterstrichenen Begriff, um eine schnelle
-  Vorschau der Definition zu erhalten.
-- Wählen Sie einen Begriff im Text aus, um die Seitenleiste auszulösen.
-- Navigieren Sie durch die Seitenleiste, um einen Begriff aus einer Liste von "Karten"
-  mit definierten Begriffen auszuwählen.
+- Wählen Sie einen Begriff im Text aus, um die Seitenleiste zu aktivieren; oder
+- Navigieren Sie durch die Seitenleiste und wählen Sie einen Begriff aus der Liste der
+  definierten Begriffe aus. Sie können auch die Suchleiste verwenden, um einen bestimmten
+  Begriff zu finden.
 
-## Anzeigen von Definitionen
+## Anzeige der Definition
 
-Sobald ein Begriff ausgewählt ist, zeigt das Plugin seine Definition in der Seitenleiste
-an. Wenn der Begriff verschachtelte Definitionen enthält, werden diese innerhalb
-derselben Karte angezeigt, und Sie können darauf zugreifen, indem Sie auf den
-verschachtelten Begriff klicken.
+Sobald ein Begriff ausgewählt ist, zeigt das Plugin die Definition in der Seitenleiste an.
+Wenn der Begriff verschachtelte Definitionen enthält, werden diese im selben Kartenfenster
+hervorgehoben, und Sie können auf den verschachtelten Begriff klicken, um darauf zuzugreifen.
 
-Um auf alle Erwähnungen eines bestimmten Begriffs im Vertrag zuzugreifen, klicken Sie
-auf den Tab "Vorkommen" in der Karte.
+Um alle Vorkommen eines Begriffs im Vertrag anzuzeigen, klicken Sie auf den Reiter
+"Vorkommen" in der Karte.
 
 :::tip Deklinationen
-Das Plugin unterstützt Deklinationen von definierten Begriffen. Zum Beispiel, wenn der
-Begriff "Vertrag" definiert ist, erkennt das Plugin auch "Verträge" als Vorkommen des
+Das Plugin unterstützt Deklinationen definierter Begriffe. Wenn z. B. der Begriff
+"Vertrag" definiert ist, erkennt das Plugin auch "Verträge" als Vorkommen des
 definierten Begriffs.
 :::
