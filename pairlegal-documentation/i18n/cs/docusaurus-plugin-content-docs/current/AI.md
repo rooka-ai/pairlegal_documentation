@@ -4,8 +4,8 @@ sidebar_position: 8
 
 # AI
 
-Nabízíme možnosti přizpůsobení AI podle vašich potřeb. Můžete si nastavit svého
-vlastního poskytovatele velkých jazykových modelů, nebo nastavit celkový tón a styl
+Nabízíme možnosti přizpůsobení AI podle vašich potřeb. Můžete si nastavit preferovaného
+poskytovatele velkých jazykových modelů, nebo nastavit celkový tón a styl
 odpovědí výběrem vhodné systémové zprávy. Více informací najdete v záložce Nastavení.
 
 ## Chat

@@ -4,9 +4,9 @@ sidebar_position: 8
 
 # AI
 
-We offer options to customize the AI according to your needs. You can set your own
-provider of large language models, or set an overall tone and style of answers by
-selecting the appropriate system message. Find more in the Settings tab.
+We offer options to customize the AI according to your needs. You can choose your
+preferred provider of large language models, or set an overall tone and style of
+answers by selecting the appropriate system message. Find more in the Settings tab.
 
 ## Chat
 

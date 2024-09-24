@@ -5,7 +5,7 @@ sidebar_position: 8
 # KI
 
 Wir bieten Anpassungsmöglichkeiten für KI nach Ihren Bedürfnissen. Sie können
-Ihren eigenen Anbieter für große Sprachmodelle einrichten oder den Ton und Stil der
+Ihren bevorzugten Anbieter für große Sprachmodelle einrichten oder den Ton und Stil der
 Antworten durch die Auswahl einer passenden Systemnachricht festlegen. Weitere
 Informationen finden Sie im Reiter Einstellungen.
 
