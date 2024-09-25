@@ -45,8 +45,3 @@ ensuring that the security is based on proven and tested solutions.
 
 We will never ask you to provide us with your password.
 If you forget your password, you can reset it.
-
-## Request custom agreement
-
-If your IT team requires a custom agreement or documentation, please reach out
-to us.

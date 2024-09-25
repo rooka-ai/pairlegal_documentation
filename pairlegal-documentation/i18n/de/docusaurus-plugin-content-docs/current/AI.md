@@ -1,33 +1,77 @@
 ---
-sidebar_position: 6
+sidebar_position: 8
 ---
 
 # KI
 
-Nutzen Sie die neuesten Innovationen auf dem Gebiet der generativen KI direkt in MS
-Word. Wählen Sie Ihr bevorzugtes Sprachmodell, aktivieren Sie einen optionalen
-zweistufigen Anonymisierungsprozess und führen Sie einen der verfügbaren Abläufe durch.
+Wir bieten Anpassungsmöglichkeiten für KI nach Ihren Bedürfnissen. Sie können
+Ihren bevorzugten Anbieter für große Sprachmodelle einrichten oder den Ton und Stil der
+Antworten durch die Auswahl einer passenden Systemnachricht festlegen. Weitere
+Informationen finden Sie im Reiter Einstellungen.
 
-## Abläufe
+## Chat
 
-### Adaptiver Austausch
+Im Chat können Sie ein Dokument hochladen, zu dem der Benutzer Fragen stellt.
+Es ist auch möglich, den allgemeinen Chat ohne ein geöffnetes Dokument zu nutzen.
+Antworten, die auf einem Dokument basieren, enthalten Zitate, die eine einfache
+Überprüfung der Antwortteile gegenüber dem Quelltext ermöglichen. Die einzelnen
+Unterhaltungen werden im Plugin in Form von Threads angezeigt.
 
-Tauschen Sie Paare von Begriffen (z.B., "Company" –> "Buyer") in einem Dokument in einer
-kontextbezogenen Weise aus. Nach der Auswahl des Paares oder der Paare liefert das
-Plugin eine Liste von vorgeschlagenen Austauschmöglichkeiten, die individuell akzeptiert
-oder abgelehnt werden können.
+<iframe
+  width="100%"
+  height="315"
+  src="https://youtube.com/embed/WuQdOxFJfuc"
+  title="YouTube video player"
+  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+  allowFullScreen
+/>
 
-### QA
+## Chat-Kurzbefehle
 
-Die QA (Question and Answer) Funktionalität ermöglicht es den Benutzern, natürliche
-Fragen über das Rechtsdokument, an dem sie arbeiten, zu stellen. Die KI analysiert den
-Text umfassend und gibt Antworten zusammen mit zitierten Quellen zurück.
+Für häufig genutzte Aktionen können Sie einen einfachen Kurzbefehl erstellen,
+um diese einfach auszuführen. Der Kurzbefehl kann ausgewählt werden, indem
+Sie '/' im Chat eingeben und aus der Liste auswählen. Die Liste kann mit den
+Pfeiltasten auf der Tastatur durchgeblättert und durch Drücken von Enter
+bestätigt werden, wodurch die Aktion in den Chat gesendet wird. Sie können den
+Kurzbefehl auch auswählen, um dessen Inhalt ins Textfeld für weitere Bearbeitungen
+einzufügen.
 
-### Playbook
+<iframe
+  width="100%"
+  height="315"
+  src="https://www.youtube.com/embed/sS28yNJVcWI"
+  title="YouTube video player"
+  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+  allowFullScreen
+/>
 
-:::warning Demnächst verfügbar
+## Schnelle Aktionen (FastTrack)
+
+Für häufige, wiederkehrende Aktionen können Sie auch die Möglichkeit nutzen,
+direkt vom Startbildschirm des Plugins zuzugreifen. Es stehen einige
+voreingestellte Aktionen zur Verfügung. Antworten werden neben dem Startbildschirm
+auch in einem separaten Thread im Chat-Tab angezeigt.
+
+<iframe
+  width="100%"
+  height="315"
+  src="https://www.youtube.com/embed/PFEIabq4yxc"
+  title="YouTube video player"
+  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+  allowFullScreen
+/>
+
+### Bearbeitung von markiertem Text
+
+Wenn Sie Text in einem Vertrag markieren, können Sie KI verwenden, um verschiedene
+Textvarianten vorzuschlagen, einschließlich der Übersetzung in eine andere Sprache.
+Weitere Informationen finden Sie im Reiter Bearbeitung.
+
+## Intelligente Ersetzung
+
+:::warning Kommt bald
 :::
-Die Playbook-Funktion ist ein intelligentes Werkzeug zur Durchsetzung von Leitlinien,
-das den Inhalt des Dokuments mit einem Datensatz von vordefinierten Regeln und Klauseln,
-die Standardpraktiken Ihrer Organisation darstellen, abgleicht, um sicherzustellen, dass
-alle erstellten Verträge im Einklang mit den Protokollen Ihres Unternehmens stehen.
+Ersetzen Sie Ausdruckspaare (z. B. "Gesellschaft" -> "Käufer") im Dokument auf eine
+weise, die ihren Kontext berücksichtigt. Nach der Auswahl von Paaren gibt das
+Plugin eine Liste von Ersatzvorschlägen zurück, die einzeln angenommen oder
+abgelehnt werden können.

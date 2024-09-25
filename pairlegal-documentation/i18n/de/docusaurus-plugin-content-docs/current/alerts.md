@@ -1,66 +1,79 @@
 ---
-sidebar_position: 5
+sidebar_position: 6
 ---
 
 # Warnhinweise
 
 ## Überblick
 
-Warnhinweise sind proaktive Benachrichtigungen, die den Benutzern helfen, die Integrität
-und Konsistenz von Rechtsdokumenten zu wahren. Sie bieten Echtzeit-Feedback über
-mögliche Probleme, die die Beständigkeit oder Klarheit des Dokuments beeinträchtigen
-könnten.
+Das Plugin zeigt eine Reihe spezifischer Warnungen für juristische Texte an. Zu diesen
+Warnungen gehören die unten aufgeführten Typen.
 
-## Einzelne Warnhinweise
+### Warnungen zu Definitionen
 
-Jeder Warnhinweis ist als Schutzmaßnahme konzipiert, die sicherstellt, dass die von
-Ihnen erstellten Rechtsdokumente frei von gängigen Fehlern und Widersprüchen sind,
-wodurch letztlich ihre Durchsetzbarkeit und Professionalität gewahrt bleibt.
-
-### Definition-bezogene Warnhinweise
-
-Im Falle von widersprüchlichen Definitionen (d.h. ein einzelner Begriff wird mehrmals
-definiert), auf nicht standardisierte Weise formulierten Definitionen oder Definitionen,
-die im Dokument nicht verwendet werden, wird der entsprechende Warnhinweis in der
-Definitionskarte angezeigt.
+Bei widersprüchlichen Definitionen (d.h. ein Begriff wird mehrmals definiert), Definitionen,
+die nicht standardgemäß formuliert sind, oder Definitionen, die im Dokument nicht
+verwendet werden, wird der entsprechende Warnhinweis in der Definitionskarte angezeigt.
+Im Reiter 'Vorkommen' prüfen wir zudem, ob alle Erwähnungen des definierten Begriffs
+konsistent großgeschrieben sind und ob der Begriff vor anderen Vorkommen verwendet wird.
 
 ### Doppelte Nummernkontrolle
 
-Dieser Warnhinweis überprüft die numerische Konsistenz im gesamten Dokument. Er wird
-aktiviert, wenn es Unstimmigkeiten zwischen Zahlen in numerischer und schriftlicher
-Form gibt, oder wenn die gleiche Zahl auf eine Weise wiederholt wird, die einen
-möglichen Fehler nahelegt.
-
-### 'Hausstil'
-
-Der Warnhinweis 'Hausstil' stellt sicher, dass das Dokument den spezifischen
-stilistischen Standards Ihrer Organisation entspricht. Er markiert Abweichungen von
-vordefinierten Style-Guidelines, wie zum Beispiel die Art und Weise, wie Daten
-geschrieben werden, ob "und/oder" verwendet werden sollte und so weiter. Wir bieten eine
-Reihe von diesen Warnhinweisen an, die ein- oder ausgeschaltet werden können, aber wir
-können auch benutzerdefinierte Warnhinweise erstellen, die den Bedürfnissen Ihrer
-Organisation entsprechen.
+Diese Warnung überprüft die numerische Konsistenz im gesamten Dokument. Sie wird
+aktiviert, wenn es Unstimmigkeiten zwischen Zahlen in numerischer und ausgeschriebener
+Form gibt.
 
 ### Feiertagswarnung
 
 Der Feiertagswarnhinweis überprüft die im Dokument genannten Daten gegen eine Datenbank
-von Feiertagen. Er benachrichtigt den Benutzer, wenn ein Datum mit einem Feiertag
-zusammenfällt, was Fristen oder die Ausführung des Vertrags beeinflussen könnte.
+von Feiertagen und Wochenenden. Wenn ein Datum mit einem (zukünftigen) Feiertag
+zusammenfällt, wird der Benutzer benachrichtigt, da dies rechtliche und praktische
+Auswirkungen haben könnte.
 
-### Unausgefüllte Vorlagen
+### Warnhinweis bei Vorlagen
 
-Die Warnung wird ausgelöst, wenn das Dokument eine auszufüllende Klausel enthält, z.B.
-"Die Parteien sind sich einig, dass der [Datum einfügen] das Vertragsdatum ist."
+Die Warnung wird ausgelöst, wenn das Dokument eine auszufüllende Klausel enthält,
+z. B. "Die Parteien stimmen zu, dass der [Datum einfügen] das Datum des Vertrags ist."
+Wir prüfen auf gängige Platzhalter, hervorgehobenen Text und andere Hinweise auf Vorlagen.
 
 ### Unausgeglichene Klammerung
 
-Unausgeglichene Klammerungen können zu Verwirrung bei der Interpretation der
-Bestimmungen des Dokuments führen. Dieser Warnhinweis erkennt jegliche (nicht
-passende Klammern)), geschweifte Klammern oder eckige Klammern, um mögliche
-Fehlinterpretationen der Vertragsbedingungen zu verhindern.
+Unausgeglichene Klammern können zu Verwirrung bei der Interpretation der Bestimmungen
+führen. Dieser Warnhinweis erkennt jegliche (nicht passende Klammern)), geschweifte
+oder eckige Klammern, um mögliche Missverständnisse der Vertragsbedingungen zu vermeiden.
 
-### IBAN-Prüfung
+### Standardnummern
 
-Die IBAN-Prüfung validiert das Format und die Struktur von im Dokument erwähnten IBANs,
-um sicherzustellen, dass Bankdaten richtig angegeben sind und Transaktionsfehler
-vermieden werden.
+Die Standardnummernkontrolle prüft Format und Struktur der im Dokument enthaltenen
+Nummern. Wir überprüfen die Gültigkeit von Geburtsnummern, Bankkontonummern
+(einschließlich IBAN-Format) und anderen.
+
+### Korrektheit von Firmennamen und Existenz von Firmen-IDs
+
+Für jede im Dokument aufgeführte Firma prüft das Plugin, ob der Firmenname in der Nähe
+der ID-Nummer genannt wird. Zusätzlich wird eine Warnung angezeigt, wenn die Firmen-ID
+nicht im entsprechenden öffentlichen Register gefunden wird.
+
+Unterstützt für 🇨🇭,🇨🇿, 🇸🇰, 🇭🇷.
+
+### Prüfung der Existenz und des Typs eines Grundstücks
+
+Wenn ein Grundstück im Dokument aufgeführt ist, prüft das Plugin, ob das Grundstück im
+(tschechischen) Kataster eingetragen ist und ob der richtige Grundstückstyp angegeben
+ist.
+
+Unterstützt für 🇨🇿.
+
+### Querverweiskontrolle
+
+Das Plugin überprüft interne Verlinkungen auf einen bestimmten Teil des Dokuments
+darauf, ob der Link mit der "Querverweis"-Funktion von Word erstellt wurde. Ohne
+diese Funktion kann es bei einer Bearbeitung oder Neunummerierung des Dokuments zu
+einem Missverhältnis zwischen dem Verweis und der Zielstelle kommen.
+
+### Gesetzesverweiskontrolle
+
+Das Plugin überprüft, ob die im Dokument genannten Gesetze in der angegebenen
+Jurisdiktion gültig sind. Wenn das Gesetz nicht gültig ist, wird eine Warnung angezeigt.
+
+Unterstützt für 🇨🇿.
