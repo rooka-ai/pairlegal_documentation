@@ -21,10 +21,20 @@ Derzeit unterstützen wir Unternehmensinformationen in 🇨🇭, 🇨🇿, 🇸�
 
 ## Grundbuch
 
-Für im Text erwähnte Grundstücke zeigen wir verfügbare Informationen aus dem Grundbuch
-an und überprüfen deren Existenz sowie die Angabe des korrekten Grundstückstyps im Text.
+Für die im Text erwähnten Grundstücke zeigen wir die verfügbaren Informationen aus dem Grundbuch an und überprüfen ihre Existenz und die richtige Art des Grundstücks im Text.
 
-## Geltende Gesetzesfassung
+Unterstützt in 🇨🇿.
 
-Diese Funktion verknüpft Erwähnungen von Gesetzesbestimmungen mit ihrer geltenden
-Fassung. Dazu fügen wir Hinweise auf bereits nicht mehr gültige Bestimmungen hinzu.
+## Geltende Gesetzesfassungen
+
+Diese Funktion verlinkt Erwähnungen von gesetzlichen Bestimmungen direkt mit den entsprechenden Texten. Die Nutzer können auf den genauen Wortlaut der Gesetze zugreifen, auf die in ihren Dokumenten verwiesen wird.
+
+Unterstützt in 🇨🇿.
+
+## Rechtsprechung & Zitate
+
+:::warning Demnächst verfügbar
+Demnächst für ausgewählte Länder verfügbar. Lassen Sie uns wissen, ob Sie diese Funktion auch für Ihr Land unterstützt sehen möchten.
+:::
+
+Ähnlich wie bei den geltenden Gesetzesfassungen verbindet diese Funktion Erwähnungen der Rechtsprechung mit den entsprechenden Präzedenzfällen und Urteilen, deren Volltext mit einem einzigen Klick zugänglich ist.

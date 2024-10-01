@@ -14,13 +14,13 @@ Warnungen gehören die unten aufgeführten Typen.
 Bei widersprüchlichen Definitionen (d.h. ein Begriff wird mehrmals definiert), Definitionen,
 die nicht standardgemäß formuliert sind, oder Definitionen, die im Dokument nicht
 verwendet werden, wird der entsprechende Warnhinweis in der Definitionskarte angezeigt.
-Im Reiter 'Vorkommen' prüfen wir zudem, ob alle Erwähnungen des definierten Begriffs
-konsistent großgeschrieben sind und ob der Begriff vor anderen Vorkommen verwendet wird.
+Im Reiter 'Erwähnungen' prüfen wir zudem, ob alle Erwähnungen des definierten Begriffs
+konsistent großgeschrieben sind und ob der Begriff vor anderen Erwähnungen verwendet wird.
 
 ### Doppelte Nummernkontrolle
 
 Diese Warnung überprüft die numerische Konsistenz im gesamten Dokument. Sie wird
-aktiviert, wenn es Unstimmigkeiten zwischen Zahlen in numerischer und ausgeschriebener
+aktiv, wenn es Unstimmigkeiten zwischen Zahlen in numerischer und ausgeschriebener
 Form gibt.
 
 ### Feiertagswarnung
