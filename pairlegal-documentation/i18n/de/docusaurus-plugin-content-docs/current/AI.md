@@ -63,8 +63,8 @@ auch in einem separaten Thread im Chat-Tab angezeigt.
 
 ### Bearbeitung von markiertem Text
 
-Wenn Sie Text in einem Vertrag markieren, können Sie KI verwenden, um verschiedene
-Textvarianten vorzuschlagen, einschließlich der Übersetzung in eine andere Sprache.
+Wenn Sie Text in einem Vertrag markieren, können Sie KI verwenden, um unter
+Berücksichtigung des Dokumentenkontexts verschiedene Textvarianten vorzuschlagen.
 Weitere Informationen finden Sie im Reiter Bearbeitung.
 
 ## Intelligente Ersetzung
@@ -72,6 +72,6 @@ Weitere Informationen finden Sie im Reiter Bearbeitung.
 :::warning Kommt bald
 :::
 Ersetzen Sie Ausdruckspaare (z. B. "Gesellschaft" -> "Käufer") im Dokument auf eine
-weise, die ihren Kontext berücksichtigt. Nach der Auswahl von Paaren gibt das
+Weise, die ihren Kontext berücksichtigt. Nach der Auswahl von Paaren gibt das
 Plugin eine Liste von Ersatzvorschlägen zurück, die einzeln angenommen oder
 abgelehnt werden können.

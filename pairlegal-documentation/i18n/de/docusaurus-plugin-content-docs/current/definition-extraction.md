@@ -27,14 +27,12 @@ Diese Funktion erspart Ihnen die manuelle Suche nach Definitionen.
   Definitionsstelle gelangen (siehe Video unten).
 
 - **Verschachteltes Begriffstracking:** Begriffe innerhalb einer Definition, die ebenfalls
-  im Vertrag definiert sind, werden ebenfalls getrackt und sind von jeder Definitionenkarte
-  aus zugänglich.
+  im Vertrag definiert sind, werden ebenfalls getrackt und sind von jeder der entsprechenden Definitionenkarten aus zugänglich.
 
-- **Benachrichtigungen:** Wir prüfen die Konsistenz definierter Begriffe und benachrichtigen
+- **Warnungen:** Wir prüfen die Konsistenz definierter Begriffe und benachrichtigen
   Sie über definierte Begriffe, die nicht verwendet werden, doppelte Definitionen oder
-  inkonsistente Verwendung von Begriffen im gesamten Dokument (z. B. wird ein Begriff
-  großgeschrieben definiert, aber später kleingeschrieben verwendet). Alle Benachrichtigungen
-  können einzeln ignoriert werden.
+  inkonsistente Verwendung von Begriffen im gesamten Dokument (z. B. wenn ein Begriff
+  großgeschrieben definiert, aber später kleingeschrieben verwendet wird). Alle Benachrichtigungen können einzeln ignoriert werden.
 
 - **Vergleichen:** Für ausgewählte Rechtsordnungen bieten wir eine Funktion, um die Definition
   mit einem juristischen Thesaurus (wie z. B. Czech LegalVOC) zu vergleichen, um die
@@ -53,14 +51,14 @@ Diese Funktion erspart Ihnen die manuelle Suche nach Definitionen.
   definierten Begriffe aus. Sie können auch die Suchleiste verwenden, um einen bestimmten
   Begriff zu finden.
 
-## Anzeige der Definition
+## Anzeigen der Definition
 
 Sobald ein Begriff ausgewählt ist, zeigt das Plugin die Definition in der Seitenleiste an.
 Wenn der Begriff verschachtelte Definitionen enthält, werden diese im selben Kartenfenster
 hervorgehoben, und Sie können auf den verschachtelten Begriff klicken, um darauf zuzugreifen.
 
 Um alle Vorkommen eines Begriffs im Vertrag anzuzeigen, klicken Sie auf den Reiter
-"Vorkommen" in der Karte.
+"Erwähnungen" in der Karte.
 
 :::tip Deklinationen
 Das Plugin unterstützt Deklinationen definierter Begriffe. Wenn z. B. der Begriff
