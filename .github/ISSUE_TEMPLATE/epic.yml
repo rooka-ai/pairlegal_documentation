@@ -8,7 +8,7 @@ body:
   - type: textarea
     id: epic-description
     validations:
-      required: true
+      required: false
     attributes:
       label: Epic description
       description: |
@@ -17,7 +17,7 @@ body:
   - type: textarea
     id: linked-issues
     validations:
-      required: true
+      required: false
     attributes:
       label: Linked Issues
       description: |
