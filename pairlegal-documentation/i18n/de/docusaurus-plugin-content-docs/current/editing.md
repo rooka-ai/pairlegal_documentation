@@ -17,6 +17,18 @@ diese direkt in das Dokument ein.
 
 Beim Auswählen von Text in einer Datei kann KI verwendet werden, um verschiedene
 Varianten des Textes vorzuschlagen, wobei der Kontext der Datei berücksichtigt wird.
+Sie können die vorgeschlagenen Varianten auswählen und bearbeiten, um mehrere
+Änderungen gleichzeitig vorzunehmen und das Ergebnis dann mit dem Originaltext anhand
+der Änderungsverfolgung zu vergleichen.
+
+<iframe
+  width="100%"
+  height="315"
+  src="https://www.youtube.com/embed/VnUUYtp81EU"
+  title="YouTube video player"
+  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+  allowFullScreen
+/>
 
 ## Übersetzung
 
