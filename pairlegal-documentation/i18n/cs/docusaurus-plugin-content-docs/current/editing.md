@@ -2,7 +2,7 @@
 sidebar_position: 9
 ---
 
-# Úpravy
+# Editace
 
 Vyberte ustanovení dokumentu a zvolte z různých možností úprav.
 
@@ -10,7 +10,7 @@ Vyberte ustanovení dokumentu a zvolte z různých možností úprav.
 
 :::warning Beta verze
 :::
-Prohledejte svou interní znalostní bázi pro relevantní klauzule a vložte je přímo
+Prohledejte svou interní databázi smluv pro relevantní ustanovení a vložte je přímo
 do dokumentu.
 
 ## Přepsání ustanovení
