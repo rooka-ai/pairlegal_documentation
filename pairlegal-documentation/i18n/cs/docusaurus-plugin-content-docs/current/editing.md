@@ -16,7 +16,18 @@ do dokumentu.
 ## Přepsání ustanovení
 
 Při výběru textu v souboru může být použita AI k navržení různých variant textu,
-s přihlédnutím k celkovému kontextu souboru.
+s přihlédnutím k celkovému kontextu souboru.  Můžete vybrat a upravit navrhované
+varianty, provést několik změn najednou a poté porovnat výsledek s původním textem
+pomocí sledování změn.
+
+<iframe
+  width="100%"
+  height="315"
+  src="https://www.youtube.com/embed/VnUUYtp81EU"
+  title="YouTube video player"
+  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+  allowFullScreen
+/>
 
 ## Překlad
 

@@ -16,7 +16,18 @@ the document.
 ## Rewrite a clause
 
 When selecting text in a file, AI can be used to suggest different variations of the
-text, taking into account the context of the file.
+text, taking into account the context of the file. You can select and edit the suggested
+variations to apply several changes at once and then compare the result in tracked
+changes to the original text.
+
+<iframe
+  width="100%"
+  height="315"
+  src="https://www.youtube.com/embed/VnUUYtp81EU"
+  title="YouTube video player"
+  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+  allowFullScreen
+/>
 
 ## Translation
 
