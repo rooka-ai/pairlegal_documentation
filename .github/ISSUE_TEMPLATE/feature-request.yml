@@ -6,7 +6,7 @@ body:
   - type: textarea
     id: feature-request
     validations:
-      required: true
+      required: false
     attributes:
       label: Feature request
       description: |
@@ -15,7 +15,7 @@ body:
   - type: textarea
     id: motivation
     validations:
-      required: true
+      required: false
     attributes:
       label: Motivation
       description: |
