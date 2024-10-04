@@ -1,0 +1,17 @@
+name: "Other Issue"
+description: Raise an issue that wouldn't be covered by the other templates.
+labels: ["04 - Other"]
+
+body:
+  - type: textarea
+    attributes:
+      label: "Issue"
+      description: >
+        Please describe the issue you'd like to raise as clearly as possible.
+        Make sure to include any relevant links or references.
+
+  - type: textarea
+    attributes:
+      label: "Suggestion:"
+      description: >
+        Please outline a suggestion to improve the issue here.
