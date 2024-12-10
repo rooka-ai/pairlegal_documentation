@@ -86,7 +86,12 @@ const config = {
         items: [
           {
             href: 'https://www.singledraft.ai/',
-            label: 'SingleDraft',
+            label: 'SingleDraft homepage',
+            position: 'right',
+          },
+          {
+            href: 'https://www.singledraft.ai/security',
+            label: 'Security information',
             position: 'right',
           },
         ],
