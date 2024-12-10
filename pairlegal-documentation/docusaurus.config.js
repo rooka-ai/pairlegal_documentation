@@ -29,14 +29,6 @@ const config = {
   onBrokenLinks: "throw",
   onBrokenMarkdownLinks: "warn",
 
-  // Even if you don't use internationalization, you can use this field to set
-  // useful metadata like html lang. For example, if your site is Chinese, you
-  // may want to replace "en" with "zh-Hans".
-  i18n: {
-    defaultLocale: 'en',
-    locales: ['en', "de", "cs"],
-  },
-
   presets: [
     [
       "classic",
@@ -93,12 +85,13 @@ const config = {
         },
         items: [
           {
-            type: "localeDropdown",
-            position: "right",
+            href: 'https://www.singledraft.ai/',
+            label: 'SingleDraft homepage',
+            position: 'right',
           },
           {
-            href: 'https://www.singledraft.ai/',
-            label: 'SingleDraft',
+            href: 'https://www.singledraft.ai/security',
+            label: 'Security information',
             position: 'right',
           },
         ],
