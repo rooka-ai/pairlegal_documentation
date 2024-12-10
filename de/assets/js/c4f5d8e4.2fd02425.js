@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkpairlegal_documentation=self.webpackChunkpairlegal_documentation||[]).push([[634],{2157:(t,e,a)=>{a.r(e),a.d(e,{default:()=>s});var n=a(6347),r=a(8180),u=a(4848);function s(){return(0,u.jsx)(n.rd,{to:(0,r.Ay)("/docs/getting_started/")})}}}]);
