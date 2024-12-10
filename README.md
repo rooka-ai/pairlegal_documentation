@@ -8,10 +8,4 @@ Run test server by
     npm run start
 ```
 
-The languages must be tested separately, e.g.:
-
-```
-npm run start -- --locale de
-```
-
-Entrypoint: localhost:\<port\>/pairlegal_documentation
+We currently only support English in the docs.
