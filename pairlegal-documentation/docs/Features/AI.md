@@ -1,7 +1,3 @@
----
-sidebar_position: 8
----
-
 # AI
 
 We offer options to customize the AI according to your needs. You can choose your
@@ -63,11 +59,3 @@ addition to the opening screen, also displayed in a separate thread in the Chat 
 When selecting text in a file, AI can be used to suggest different variations of the
 text, taking into account the context of the file.
 See Editing tab for more information.
-
-## Adaptive replace
-
-:::warning Coming soon
-:::
-Swap pairs of terms (e.g., "Company" –> "Buyers") over a document in a
-contextually-aware way. After selecting the pair or pairs, the plugin returns a list of
-suggested replacements, which can be individually accepted or rejected.

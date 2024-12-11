@@ -1,21 +1,30 @@
 ---
 sidebar_position: 1
 ---
-# Getting started
 
-Thank you for your interest in SingleDraft, the AI legal writing assistant
-integrated into MS Word. Our solution provides a layer of insights over a contract
-opened in MS Word:
+# Welcome to SingleDraft
 
-- connecting information within the document (such as defined terms),
-- connecting with external information (such as information from Company House),
-- and providing suggestions on model clauses based on the internal database.
+SingleDraft is an AI-enhanced legal writing assistant that integrates with Microsoft
+Word, designed to complement your expertise in legal drafting. Rather than disrupting
+your established workflow, SingleDraft provides intelligent insights right where you
+work.
 
-SingleDraft is **built with respect for your craft**, leaving you in control of the
-document at all times and providing you with the insights you need to make the best
-decisions.
+## Where to Begin
 
-## Install
+1. **Installation**: Get started by installing SingleDraft on your Windows or Mac device.
+Visit our installation guide for step-by-step
+instructions.
 
-The plugin is available for both Windows and Mac platforms. For installation steps
-follow this [link](../installation).
+2. **Features**: Learn about SingleDraft's capabilities in our features overview, where
+we explain how each individual feature can enhance your drafting process.
+
+## Support
+
+Our customer support team is here to help you make the most of SingleDraft. Whether you
+have questions about features, need technical assistance, or want to provide feedback:
+
+- Reach out to us via Intercom, either here or in the SingleDraft app
+- Book a [consultation call](https://cal.com/rooka/15min) with our team
+
+We are committed to supporting your legal drafting needs and welcome your questions and
+feedback.
