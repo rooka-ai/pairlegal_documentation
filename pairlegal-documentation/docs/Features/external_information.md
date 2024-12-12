@@ -1,7 +1,3 @@
----
-sidebar_position: 7
----
-
 # External information
 
 The external information feature enriches your legal documents by automatically

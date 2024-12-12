@@ -1,7 +1,3 @@
----
-sidebar_position: 9
----
-
 # Editing
 
 Select a clause in the document and choose from a variety of editing options.
