@@ -2,43 +2,47 @@
 
 ## Sharepoint
 
-If you have documents in the SharePoint which you want to share with SingleDraft,
-these are the steps to follow.
+SingleDraft seamlessly connects with your SharePoint documents, enhancing your
+existing document management workflow. Here's how to set it up:
 
-### Application Access Consent
+### Step 1: Grant Access Permissions
 
 :::warning
 User doing this step must have `Privileged Role Administrator` role in
 their Azure Entra tenant.
 :::
 
-1. Visit [Consent initiation page](https://sp.singledraft.ai)
-1. If you have already user account at SingleDraft, please log in with this account,
-   else please create new account.
-1. Once logged in, the page provides you with a button that if clicked initiates
-   consent process. The consent is about you giving access to our application to read
-   files and user groups in your SharePoint.
-1. Once the button is clicked, you will be redirected to Microsoft Consent page that
-   displays our application requesting consent for given permissions.
+1. Navigate to our [Consent initiation page](https://sp.singledraft.ai)
+1. Sign in to your SingleDraft account (or create one if you haven't already).
+1. You'll see an option to initiate the permission process. The consent is about
+   you giving access to our application to read files and user groups
+   in your SharePoint.
+1. Upon confirmation, you'll be directed to Microsoft's consent page where you can
+   review and approve the requested permissions.
 
-### Synchronization
+### Step 2: Configure Your Document Source
 
-For SingleDraft to start synchronization with your documents, we need you to provide us:
+To enable document synchronization, please provide:
 
 1. Your SharePoint Site URL that contains folder(s) for synchronization, e.g.,
    `https://<your-domain>.sharepoint.com/sites/<name-of-your-site>`
 1. Relative paths to folders that contains the documents for synchronization, e.g.,
    `templates/curated`
 
-### User Data Access
+### Step 3: User Access Management
 
-SingleDraft synchronization service looks at the user group with the same name
-as the name of the Site that should be synchronized, reads all the user emails and then
-this accounts can see the synchronized data in the SingleDraft plugin.
+SingleDraft manages access through SharePoint's existing group structure. The system:
 
-:::warning Please make sure this is acceptable data access inheritance.
+- References the user group matching your SharePoint site name
+- Grants access to users based on their email addresses within that group
+- Maintains your existing permission hierarchy
+
+:::warning
+Please review this access model to ensure it aligns with your organization's
+security requirements.
 :::
 
-Once the consent is given and the information above is provided, we will setup
-the integration and the documents will appear in the SingleDraft plugin
-within several hours.
+### What Happens Next
+Once configured, your documents will be available in the SingleDraft plugin within
+a few hours. The system will maintain ongoing synchronization to ensure your
+content stays current.
