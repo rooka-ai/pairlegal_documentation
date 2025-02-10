@@ -11,7 +11,8 @@ Select a clause in the document and choose from a variety of editing options.
 :::warning Under active development
 :::
 Search your internal knowledge base for relevant clauses and paste them directly into
-the document.
+the document. Please see [steps](integrations) required to integrate SingleDraft
+with your documents.
 
 ## Rewrite a clause
 
