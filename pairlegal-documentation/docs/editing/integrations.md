@@ -1,6 +1,6 @@
 # Integrations
 
-## Sharepoint
+## SharePoint
 
 SingleDraft seamlessly connects with your SharePoint documents, enhancing your
 existing document management workflow. Here's how to set it up:
