@@ -37,6 +37,10 @@ SingleDraft manages access through SharePoint's existing group structure. The sy
 - Grants access to users based on their email addresses within that group
 - Maintains your existing permission hierarchy
 
+:::info
+If the group name is different from the Site name please let us know during onboarding.
+:::
+
 :::warning
 Please review this access model to ensure it aligns with your organization's
 security requirements.
