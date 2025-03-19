@@ -2,19 +2,31 @@
 sidebar_position: 8
 ---
 
-# AI
+# AI assistant
 
-We offer options to customize the AI according to your needs. You can choose your
-preferred provider of large language models, or set an overall tone and style of
-answers by selecting the appropriate system message. Find more in the Settings tab.
+Natively integrated into MS Word, using the knowledge of your internal data and the
+context of the opened document, the AI assistant allows for targeted and context-aware
+answers.
 
-## Chat
+## Tailored to you
 
-A document can be uploaded within the chat, which the user then asks questions about.
-Similarly, it is possible to use a general chat, without involving an open document.
-The answers, which are based on the document in question, are provided with citations
-that allow for an easy checking of parts of the answer against the source text.
-Individual conversations are displayed in the plugin in the form of threads.
+We offer a range of customization options for the AI assistant. You can choose your
+preferred language model and its provider, set the overall tone and style of answers,
+save and reuse workflows using 'Shortcuts'. In addition, AI uses in the background the
+context of the opened document, as well as to your internal data that you have
+uploaded.
+
+## Bulk edits
+
+The AI assistant can be used to edit the opened document. You can select the text you
+want to edit and the AI will suggest changes, again informed by the context of the
+opened document and your internal data. You can then accept or reject the suggested
+changes.
+
+## Q&A
+
+Answers, which are based on the opened document, are provided with citations that
+allow for an easy checking of parts of the answer against the source text.
 
 <iframe
   width="100%"
@@ -25,7 +37,7 @@ Individual conversations are displayed in the plugin in the form of threads.
   allowFullScreen
 />
 
-### Chat shortcuts
+## Shortcuts
 
 For actions you commonly use, create a simple shortcut to trigger the action. You can
 start filtering the action by typing '/' in the chat and then selecting the desired
@@ -42,32 +54,3 @@ field, to further edit it.
   allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
   allowFullScreen
 />
-
-### 'FastTrack'
-
-For frequent, repetitive actions, you can also use the option to use AI directly from
-the opening screen. Several preset actions are offered by default. The answers are, in
-addition to the opening screen, also displayed in a separate thread in the Chat tab.
-
-<iframe
-  width="100%"
-  height="315"
-  src="https://www.youtube.com/embed/PFEIabq4yxc"
-  title="YouTube video player"
-  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-  allowFullScreen
-/>
-
-## Editing selected text
-
-When selecting text in a file, AI can be used to suggest different variations of the
-text, taking into account the context of the file.
-See Editing tab for more information.
-
-## Adaptive replace
-
-:::warning Coming soon
-:::
-Swap pairs of terms (e.g., "Company" –> "Buyers") over a document in a
-contextually-aware way. After selecting the pair or pairs, the plugin returns a list of
-suggested replacements, which can be individually accepted or rejected.
