@@ -28,9 +28,15 @@ updates:
       time: "09:00"
       timezone: "Europe/Prague"
     groups:
-      all-non-rooka:
+      react:
         patterns:
-          - "*"
+          - "react"
+          - "react-dom"
+          - "@types/react"
+          - "@types/react-dom"
+      docusaurus:
+        patterns:
+          - "@docusaurus/*"
     labels:
       - "dependencies"
     versioning-strategy: increase-if-necessary
