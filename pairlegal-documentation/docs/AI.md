@@ -12,11 +12,11 @@ answers.
 
 We offer a range of customization options for the AI assistant. You can choose your
 preferred language model and its provider, set the overall tone and style of answers,
-save and reuse workflows using 'Shortcuts'. In addition, AI uses in the background the context
-the context of the opened document, as well as to your internal data that you have
+save and reuse workflows using 'Shortcuts'. In addition, AI uses in the background the
+context of the opened document, as well as to your internal data that you have
 uploaded.
 
-## Editing
+## Bulk edits
 
 The AI assistant can be used to edit the opened document. You can select the text you
 want to edit and the AI will suggest changes, again informed by the context of the
