@@ -13,16 +13,16 @@ their Azure Entra tenant.
 :::
 
 1. Navigate to our [Consent initiation page](https://sp.singledraft.ai)
-1. Sign in to your SingleDraft account (or create one if you haven't already).
-1. You'll see an option to initiate the permission process. The consent is about
+1. Sign in to your SingleDraft account (or create one if you have not already).
+1. You will see an option to initiate the permission process. The consent is about
    you giving access to our application to read files and user groups
    in your SharePoint.
-1. Upon confirmation, you'll be directed to Microsoft's consent page where you can
+1. Upon confirmation, you will be directed to Microsoft's consent page where you can
    review and approve the requested permissions.
 
 ### Step 2: Configure Your Document Source
 
-To enable document synchronization, please provide:
+Please provide the customer support team with the following information:
 
 1. Your SharePoint Site URL that contains folder(s) for synchronization, e.g.,
    `https://<your-domain>.sharepoint.com/sites/<name-of-your-site>`
@@ -41,12 +41,12 @@ SingleDraft manages access through SharePoint's existing group structure. The sy
 If the group name is different from the Site name please let us know during onboarding.
 :::
 
-:::warning
-Please review this access model to ensure it aligns with your organization's
-security requirements.
+:::info
+Make sure that the access model aligns with your organization's security requirements.
 :::
 
 ### What Happens Next
+
 Once configured, your documents will be available in the SingleDraft plugin within
 a few hours. The system will maintain ongoing synchronization to ensure your
 content stays current.
