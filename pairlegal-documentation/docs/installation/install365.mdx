@@ -15,26 +15,28 @@ import refresh from "../../static/img/installation_steps/refresh.png";
 
 # Enterprise Deployment
 
-This page follows the official
+This guide shows how to install the add-in for multiple users at once in your organization. It follows the official
 [Microsoft installation guide](https://learn.microsoft.com/en-us/microsoft-365/admin/manage/office-addins?view=o365-worldwide#upload-custom-office-add-ins-in-your-organization).
 
-### Prerequisites
+### Before You Start
 
-- Download "manifest" file (<a href="../../static/cloud.xml" download="singledraft-manifest.xml">Click here to download</a>)
-- Have Microsoft Office 365 account
-- Have one of these roles:
+You will need:
+
+- The so-called `manifest` file: <a href="../../static/cloud.xml" download="singledraft-manifest.xml">download manifest</a>
+- Microsoft Office 365 account with one of these admin roles:
   - Global Administrator
   - Azure Application Administrator
   - Exchange Administrator
-- Management and deployment via Integrated Apps require that the users are using one of these:
-  - Microsoft 365 Business licenses (Business Basic, Business Standard, Business Premium)
-  - Office 365 Enterprise licenses (E1/E3/E5/F3)
-  - Microsoft 365 Enterprise licenses (E3/E5/F3)
-- Full requirements in detail [here](https://learn.microsoft.com/en-us/microsoft-365/admin/manage/centralized-deployment-of-add-ins?view=o365-worldwide)
+- Users must have one of these license types:
+  - Microsoft 365 Business (Basic, Standard, or Premium)
+  - Office 365 Enterprise (E1, E3, E5, or F3)
+  - Microsoft 365 Enterprise (E3, E5, or F3)
 
-### Setup
+For complete requirements, see the [Microsoft documentation](https://learn.microsoft.com/en-us/microsoft-365/admin/manage/centralized-deployment-of-add-ins?view=o365-worldwide).
 
-- **Go To Microsoft Office 365** - On the left sidebar click Admin icon.<br/>
+### Step-by-Step Installation
+
+- **Go To Microsoft Office 365** - On the left sidebar click `Admin` icon.<br/>
 
   <Image img={step1} style={{ width: 200 }} />
 
@@ -50,11 +52,11 @@ This page follows the official
 
   <Image img={step4} style={{ width: 300 }} />
 
-- **Upload manifest XML** - Choose Upload manifest file from device, use the file provided above<br/>
+- **Upload manifest XML** - Choose `Upload manifest file from device` and use the file provided above<br/>
 
   <Image img={step5} style={{ width: 400 }} />
 
-- **Click Next and Add users**: - Keep the toggle for test deployment to No - Assign which users should be able to see and use the Add-in<br/>
+- **Click Next and Add users**: - Keep the toggle for test deployment to `No` - assign which users should be able to see and use the Add-in<br/>
 
   <Image img={step6} style={{ width: 400 }} />
 
