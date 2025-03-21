@@ -2,13 +2,11 @@
 sidebar_position: 4
 ---
 
-# Definition tracking
+# Definition Tracking
 
-## Overview
-
-Tracking of **definitions** is designed to enhance contract review by providing access
-to definitions and terms previously defined within the opened legal document. This
-feature saves you from having to search for definitions manually.
+This feature helps you find and understand defined terms in your legal documents.
+Instead of searching through the entire document to find what a term means,
+the system shows you the definition right away.
 
 <iframe
   width="100%"
@@ -19,46 +17,57 @@ feature saves you from having to search for definitions manually.
   allowFullScreen
 />
 
-## Features
+## Main Benefits
 
-- **Quick Access:** Selecting a term opens a dedicated card in the sidebar with its
-  definition. From wherever you are in the document, you can quickly access the definition
-  location by clicking on the "split window" icon (see video below).
+### Quick Access to Definitions
 
-- **Nested Term Tracking**: Terms within a definition that are also defined in the
-  contract are tracked as well and further accessible from each definition card.
+- Select any defined term to see its meaning in the sidebar
+- Jump to where the term is defined in the document by clicking the "split window" icon
+- Find definitions from anywhere in your document
 
-- **Alerts**: We check for consistency of defined terms and alert you on defined terms
-  that are not subsequently used, duplicate definitions, or inconsistent use of the term
-  throughout the document (such as defining a word with capital letter to then refer to it
-  in lowercase). All individual alerts can be dismissed.
+### Smart Definition Connections
 
-- **Compare**: Once you connect your internal files, you can compare the definition
-  with the definitions of the same term in other documents.
+- When a definition contains other defined terms, these are highlighted
+- Click on any highlighted term to see its definition too
 
-## Accessing definitions
+### Checks
 
-1. Open the document in MS Word and turn the plugin on by clicking on a corresponding
-   icon in the upper row. Defined terms will be automatically recognized and displayed
-   in the "cards" tab.
+The system alerts you about:
 
-2. To view a term's definition, perform one of the following:
+- Defined terms that are never used in the document
+- Terms defined more than once
+- Inconsistent capitalization (example: defining "Agreement" but later writing "agreement")
+- You can dismiss any alert you do not need
 
-- Select a term in the text to trigger the sidebar; or
-- Navigate through the sidebar to select a term from a list of "cards" with defined
-  terms; you can also use the search bar to find a specific term.
+### Definition Comparison
 
-## Viewing definition
+- Compare definitions with those in your other documents
+- Requires connecting your internal files first
 
-Once a term is selected, the plugin will display its definition within the sidebar. If
-the term contains nested definitions, they will be highlighted within the same card, and
-you can access them by clicking on the nested term.
+## How to Use Definition Tracking
 
-To access all mentions of a given term within the contract, click on the "Occurrences"
-tab inside the card.
+### Step 1: Enable the Feature
 
-:::tip Declensions
-The plugin supports declensions of defined terms. For example, if the term "Contract" is
-defined, the plugin will also recognize "Contracts" as an occurrence of the defined
-term.
+Open your document in MS Word and click the plugin icon in the top row.
+The system will automatically find all defined terms.
+
+### Step 2: View Definitions
+
+You can see definitions in two ways:
+
+- Select a term directly in your document text
+- Browse the list of defined terms in the "cards" tab
+- Use the search bar to find specific terms
+
+## Understanding Definition Cards
+
+When you select a term, you'll see a card in the sidebar showing:
+
+- The complete definition of the term
+- Any other defined terms within that definition (highlighted)
+- An "Occurrences" tab that shows all places where the term appears in your document
+
+:::tip Word Forms
+The system recognizes different forms and declensions of the same word. For example,
+if "Contract" is defined, it will also find "Contracts" in your document.
 :::
