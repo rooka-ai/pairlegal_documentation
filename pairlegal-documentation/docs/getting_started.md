@@ -11,7 +11,7 @@ opened in MS Word:
 - connecting with external information (such as information from Company House),
 - and providing suggestions on model clauses based on the internal database.
 
-SingleDraft is **built with respect for your craft**, leaving you in control of the
+SingleDraft is built with respect for your craft, leaving you in control of the
 document at all times and providing you with the insights you need to make the best
 decisions.
 

@@ -2,7 +2,7 @@
 
 Run test server by
 
-```
+```bash
     cd pairlegal-documentation
     npm install
     npm run start

@@ -99,7 +99,7 @@ const config = {
       footer: {
         style: "dark",
         links: [],
-        copyright: `Single Draft`,
+        copyright: `Legal Drafting. Redefined.`,
       },
       prism: {
         theme: prismThemes.github,
