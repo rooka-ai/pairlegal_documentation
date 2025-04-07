@@ -25,7 +25,7 @@ See [External Information](/docs/features/external_information) for more informa
 <iframe
   width="100%"
   height="420"
-  src="https://www.youtube.com/embed/iVskk3L8Gg0"
+  src="https://www.youtube.com/embed/k9rx1K4bdqQ"
   title="YouTube video player"
   allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
   allowFullScreen
