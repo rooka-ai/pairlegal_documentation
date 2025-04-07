@@ -29,7 +29,7 @@ feature.
    meaning (e.g., `fines`).
 
    During free trial, you have access to a limited number of publicly available
-   documents. To sync with your documents, please see
+   documents. To setup SingleDraft sync with your documents, please see
    [this guide](/docs/settings/integrations).
 
 2. **Basic Filtering**
