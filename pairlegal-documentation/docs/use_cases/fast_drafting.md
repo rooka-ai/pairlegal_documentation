@@ -22,6 +22,15 @@ information from the company registry. In the submenu, go to the **Registries** 
 and type the company name or ID for the supported jurisdictions.
 See [External Information](/docs/features/external_information) for more information.
 
+<iframe
+  width="100%"
+  height="420"
+  src="https://www.youtube.com/embed/iVskk3L8Gg0"
+  title="YouTube video player"
+  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+  allowFullScreen
+/>
+
 ## Blocks
 
 Use pre-defined blocks to speed up your drafting. In your test document, scroll down
@@ -29,8 +38,26 @@ to where you would like to insert signature block, set up the number of signator
 and click on the signature block. It will be inserted into the document. See
 [Blocks](/docs/features/blocks) for more information.
 
+<iframe
+  width="100%"
+  height="420"
+  src="https://www.youtube.com/embed/hXpXS8FtyG8"
+  title="YouTube video player"
+  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+  allowFullScreen
+/>
+
 ## AI assistant
 
 To speed up your drafting, you can ask the AI assistant to iterate on a clause for you
 or extract useful information from a document in a table-like or other preferred format.
 See [AI Assistant](/docs/features/AI) for more information.
+
+<iframe
+  width="100%"
+  height="420"
+  src="https://www.youtube.com/embed/07qEGL4hBXM"
+  title="YouTube video player"
+  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+  allowFullScreen
+/>
