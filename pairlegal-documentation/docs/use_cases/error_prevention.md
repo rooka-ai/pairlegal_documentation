@@ -22,9 +22,27 @@ the address in the document, and more. In your test document, you can check the
 information regarding the mentioned company as it is validated against the company
 registry.
 
+<iframe
+  width="100%"
+  height="315"
+  src="https://youtu.be/k9rx1K4bdqQ"
+  title="YouTube video player"
+  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+  allowFullScreen
+/>
+
 ### AI-based checks
 
 For more complex grammar and formal errors, you can use the
-[AI assistant](/docs/features/ai_assistant). Commonly used prompt is focused on typos
-in the text (available under `/typos`). In your test document, go over the results
-and individually accept or reject the suggested corrections.
+[AI assistant](/docs/features/ai_assistant). Common use-cases include typos in the
+text (available under `/typos`). In your test document, go over the results and
+individually accept or reject the suggested corrections.
+
+<iframe
+  width="100%"
+  height="315"
+  src="https://youtu.be/h6vdSMk7w8I"
+  title="YouTube video player"
+  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+  allowFullScreen
+/>

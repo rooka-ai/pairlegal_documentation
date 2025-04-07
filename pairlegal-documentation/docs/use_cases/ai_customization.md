@@ -6,6 +6,15 @@ sidebar_position: 4
 We offer a range of features to customize the AI to your preferences and firm
 requirements. See [Settings](/docs/features/AI) for more information.
 
+<iframe
+  width="100%"
+  height="315"
+  src="https://youtu.be/07qEGL4hBXM"
+  title="YouTube video player"
+  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+  allowFullScreen
+/>
+
 ## Prompt library
 
 Current large language models benefit from an increased context and precise
@@ -39,6 +48,15 @@ models, as well as DeepL for translation. See the full list of models in the
 The AI assistant uses the context of the opened document, as well as your internal
 data that you have uploaded. To explicitly add the currently opened document to the
 context, you can use the `Add document to context` button in the chat.
+
+<iframe
+  width="100%"
+  height="315"
+  src="https://youtu.be/JfqZgnbC_o8"
+  title="YouTube video player"
+  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+  allowFullScreen
+/>
 
 ## Custom style
 
