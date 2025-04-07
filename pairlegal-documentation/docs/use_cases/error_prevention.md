@@ -1,7 +1,7 @@
 ---
 sidebar_position: 2
 ---
-# Avoiding Formal Mistakes
+# Avoid Formal Mistakes
 
 SingleDraft prevents common mistakes before they become issues.
 
