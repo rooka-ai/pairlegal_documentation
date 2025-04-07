@@ -25,7 +25,7 @@ registry.
 <iframe
   width="100%"
   height="315"
-  src="https://youtu.be/k9rx1K4bdqQ"
+  src="https://www.youtube.com/embed/k9rx1K4bdqQ"
   title="YouTube video player"
   allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
   allowFullScreen
@@ -41,7 +41,7 @@ individually accept or reject the suggested corrections.
 <iframe
   width="100%"
   height="315"
-  src="https://youtu.be/h6vdSMk7w8I"
+  src="https://www.youtube.com/embed/h6vdSMk7w8I"
   title="YouTube video player"
   allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
   allowFullScreen

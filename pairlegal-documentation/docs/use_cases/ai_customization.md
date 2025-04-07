@@ -9,7 +9,7 @@ requirements. See [Settings](/docs/features/AI) for more information.
 <iframe
   width="100%"
   height="315"
-  src="https://youtu.be/07qEGL4hBXM"
+  src="https://www.youtube.com/embed/07qEGL4hBXM"
   title="YouTube video player"
   allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
   allowFullScreen
