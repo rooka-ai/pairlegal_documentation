@@ -43,7 +43,7 @@ feature.
 
 3. **Advanced Filtering**
    You can also use advanced filters to narrow down the search results. For
-   example, you can filter by `Document Type` or `Governing Law`. Perhaps you need
+   example, you can filter by `Contract Type` or `Jurisdiction`. Perhaps you need
    clauses in English, but from past contracts governed by German law. You can
    select `English` in the language filter and `German` in the governing law
    filter.
@@ -73,7 +73,8 @@ the search results.
 
 If you type a query that would benefit from a filter, we will suggest the most
 relevant filters for you. For example, if you search for
-`contractual penalty written last year`, we will suggest the `Date` filter.
+`contractual penalty written last year`, SingleDraft will suggest the corresponding
+`Date` filter.
 
 ### 4. Personal and Team Organization
 

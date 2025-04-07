@@ -26,7 +26,7 @@ To save this shortcut, click on the `/` button in the chat, and scroll down to
 
 Name: `penalty`
 
-Full-prompt:
+Full prompt:
 
 ```text
 Is there a penalty clause in this contract? Please also include any other clauses
