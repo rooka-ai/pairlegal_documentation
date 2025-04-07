@@ -22,15 +22,6 @@ the address in the document, and more. In your test document, you can check the
 information regarding the mentioned company as it is validated against the company
 registry.
 
-<iframe
-  width="100%"
-  height="420"
-  src="https://www.youtube.com/embed/k9rx1K4bdqQ"
-  title="YouTube video player"
-  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-  allowFullScreen
-/>
-
 ### AI-based checks
 
 For more complex grammar and formal errors, you can use the
