@@ -11,7 +11,7 @@ integration. Learn how to draft documents faster while maintaining quality.
 SingleDraft automatically finds all defined terms in your documents and tracks their
 usage throughout the document. With **custom highlights** over text, you can quickly
 see which term is defined elsewhere in the document and whether the usage of the defined
-term is consistent. See [Definition Tracking](/docs/features/definition_tracking) for
+term is consistent. See [Definition Tracking](/docs/features/definition-extraction) for
 more information.
 
 ## External information
@@ -33,4 +33,4 @@ and click on the signature block. It will be inserted into the document. See
 
 To speed up your drafting, you can ask the AI assistant to iterate on a clause for you
 or extract useful information from a document in a table-like or other preferred format.
-See [AI Assistant](/docs/features/ai_assistant) for more information.
+See [AI Assistant](/docs/features/AI) for more information.

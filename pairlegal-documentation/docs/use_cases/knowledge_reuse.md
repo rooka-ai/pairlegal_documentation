@@ -97,5 +97,5 @@ alternative definitions.
 
 #### AI Assistant Integration
 
-The [AI Assistant](/docs/features/ai_assistant) can also tap into your internal
+The [AI Assistant](/docs/features/AI) can also tap into your internal
 knowledge base to provide you with the most relevant edit suggestions.

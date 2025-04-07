@@ -34,7 +34,7 @@ registry.
 ### AI-based checks
 
 For more complex grammar and formal errors, you can use the
-[AI assistant](/docs/features/ai_assistant). Common use-cases include typos in the
+[AI assistant](/docs/features/AI). Common use-cases include typos in the
 text (available under `/typos`). In your test document, go over the results and
 individually accept or reject the suggested corrections.
 
