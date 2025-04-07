@@ -4,12 +4,26 @@ sidebar_position: 2
 
 # External Services Integration
 
-SingleDraft can integrate with various external services to enhance its functionality. As a [Team Admin](user_management/administrators.mdx#team-admin), you can add API keys for the following services:
+SingleDraft can integrate with various external services to enhance its functionality.
+As a [Team Admin](user_management/administrators.mdx#team-admin), you can add API keys
+for the following services:
 
-## DeepL
+## Selection of AI models
 
-DeepL integration allows for high-quality translations directly within the SingleDraft
-plugin.
+We offer a wide range of models to choose from, including latest large language
+models, as well as DeepL for translation.
+
+| Model             | Provider    | Hosting | Note                   |
+| ----------------- | ----------- | ------- | ---------------------- |
+| GPT-4o            | Azure       | EU      |                        |
+| GPT-4o mini       | Azure       | EU      |                        |
+| o3-mini           | Azure       | EU      | Reasoning model        |
+| Claude 3.5 Sonnet | AWS Bedrock | EU      |                        |
+| DeepL             | DeepL       | EU      | Using your own API key |
+
+See our [Security](https://www.singledraft.ai/security) page for more information on
+how we handle your data. In short, no data is being used for training or improving
+the models and data are processed within the EU.
 
 ### Adding a DeepL API Key
 
@@ -52,6 +66,6 @@ All API keys are securely stored and only accessible to users with Team Admin pr
 :::
 
 :::tip
-If you don't have API keys for these services, contact the respective service providers
+If you do not have API keys for these services, contact the respective service providers
 to obtain them.
 :::
