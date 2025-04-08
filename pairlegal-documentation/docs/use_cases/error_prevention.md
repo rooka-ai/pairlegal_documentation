@@ -37,3 +37,12 @@ individually accept or reject the suggested corrections.
   allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
   allowFullScreen
 />
+
+### Metadata-based checks
+
+:::info
+This is an upcoming feature.
+:::
+
+Make sure that the 'Author' and 'Company' values set correctly for the current
+document.

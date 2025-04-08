@@ -61,3 +61,13 @@ See [AI Assistant](/docs/features/AI) for more information.
   allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
   allowFullScreen
 />
+
+## Playbook
+
+:::info
+This is an upcoming feature.
+:::
+
+Validate your document against a predefined set of rules. Get a quick overview of
+what is missing or incorrect in the document, as compared to your internal
+standards.
