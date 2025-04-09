@@ -49,6 +49,7 @@ const config = {
       require.resolve("@easyops-cn/docusaurus-search-local"),
 
       {
+        indexBlog: false,
         // ... Your options.
         // `hashed` is recommended as long-term-cache of index file is possible.
         hashed: true,
